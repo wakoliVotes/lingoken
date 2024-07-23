@@ -1,2 +1,2 @@
 # LingoKen
-- LingoKen is a local version of Duolingo for the diverse languages in Kenya across the 42+ Tribes.
+- LingoKen is a Kenyan Online and Mobile Platform for exploring, enjoying, and learning the diverse languages in Kenya across the 42+ Tribes.
