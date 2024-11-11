@@ -14,22 +14,11 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-    - theme: brand
-      text: Agikuyu
-      link: /docs/borana/
 
 features:
-  - title: Agikuyu
+  - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Luo
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Borana
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-    features:
-  - title: Kisii
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Luhya
+  - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

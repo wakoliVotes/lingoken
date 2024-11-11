@@ -9,21 +9,38 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Languages', items : [
+        { text: 'Borana', link: '/borana/' },
+        { text: 'Luhya', link: '/luhya/' },
+        { text: 'Meru', link: '/meru/' },
+        { text: 'Swahili', link: '/swahili/' },
+        { text: 'Kamba', link: '/kamba/' },
+        { text: 'Kalenjin', link: '/kalenjin/' },
+        { text: 'Turkana', link: '/turkana/' },
+        { text: 'Orma', link: '/orma/' },
+        { text: 'Dholuo', link: '/dholuo/' },
+        { text: 'Kikuyu', link: '/kikuyu/' }
+
+      ]}
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Markdown ExamplesQQQQ', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wakoliVotes/lingoken' }
+      { icon: 'github', link: 'https://github.com/wakoliVotes/lingoken' },
+      { icon: 'twitter', link: '' },
+      { icon: 'youtube', link: '' },
+      { icon: 'medium', link: '' }
+
     ]
   }
 })
