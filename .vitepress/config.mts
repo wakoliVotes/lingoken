@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     // Define the base path for Vercel deployment
-  base: '/',
   title: "LingoKen",
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   themeConfig: {
