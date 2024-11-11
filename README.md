@@ -25,7 +25,7 @@ Each language has its dedicated page, with sub-pages covering key aspects like v
 
 ## Installation
 
-To run the project locally, ensure you have [Node.js](https://nodejs.org/) installed, then run:
+To run the project locally, ensure [Node.js](https://nodejs.org/) is installed, then run:
 
 ```bash
 # Clone the repository
