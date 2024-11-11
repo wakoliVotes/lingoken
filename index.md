@@ -20,18 +20,18 @@ hero:
 
 features:
   - title: Agikuyu
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: COMING SOON
   - title: Luo
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: COMING SOON
   - title: Borana
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: COMING SOON
 
     features:
   - title: Kisii
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: COMING SOON
   - title: Luhya
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: COMING SOON
+  - title: Meru
+    details: COMING SOON
 ---
 
