@@ -21,7 +21,7 @@ Each language has its dedicated page, with sub-pages covering key aspects like v
 
 - **Language-Specific Pages:** Navigate to dedicated pages for each language and explore dialect-specific sub-sections.
 - **Cultural Insights:** Learn not only the language but the cultural context, proverbs, and idioms unique to each dialect.
-- **User-Friendly Documentation:** Built with VitePress for a clean, responsive, and fast-loading experience.
+- **User-Friendly** Built with VitePress for a clean, responsive, and fast-loading experience.
 
 ## Installation
 
@@ -36,4 +36,4 @@ cd lingoken
 npm install
 
 # Start the development server
-npm run dev
+npm run docs:dev
