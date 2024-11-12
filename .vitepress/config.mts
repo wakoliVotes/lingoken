@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'About', link: '/about'},
       { text: 'Examples', link: '/markdown-examples' },
       { text: 'Languages', items : [
         { text: 'Borana', link: '/borana/' },
