@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/assets/lingokenlogo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about'},
@@ -52,6 +53,10 @@ export default defineConfig({
     footer: {
       message: 'Developed by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',      
       copyright: 'Copyright © 2024 LingoKen | All rights reserved. | Powered by VitePress & Vercel'
+    },
+    editLink: {
+      pattern: 'wakoliVotes/lingoken',
+      text: 'Fork & Edit Page on GitHub'
     },
     notFound: {
       // Custom 404 Page Configuration
