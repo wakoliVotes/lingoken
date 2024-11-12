@@ -53,5 +53,9 @@ export default defineConfig({
       message: 'Developed by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',      
       copyright: 'Copyright © 2024 LingoKen | All rights reserved. | Powered by VitePress & Vercel'
     },
+    notFound: {
+      // Custom 404 Page Configuration
+      title: 'COMING SOON - WORKING TO BRING THIS PAGE TO LIFE!',
+    }
   },
 })

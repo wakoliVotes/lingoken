@@ -59,4 +59,4 @@ Thank you for being a part of this journey!
 
 ---
 
-Ready to start learning? [Explore Languages](path-to-languages-page)
+Ready to start learning? [Explore Languages](/)
