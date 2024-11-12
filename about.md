@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "LingoKen"
+  name: "About"
   # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
-  text: "Explore Kenya’s 42+ languages—learn & celebrate diversity!"
+  text: Celebrate Diversity
   tagline: Kenyan Language Learning Platform
   actions:
     - theme: brand
@@ -19,41 +19,19 @@ hero:
       link: /docs/borana/
 
 features:
-  - title: Agikuyu
-    details: COMING SOON
-  - title: Luo
-    details: COMING SOON
-  - title: Borana
-    details: COMING SOON
-
-    features:
-  - title: Kisii
-    details: COMING SOON
-  - title: Luhya
-    details: COMING SOON
-  - title: Meru
-    details: COMING SOON
----
-
-# About LingoKen
-
-**LingoKen** is a digital platform designed to celebrate and preserve Kenya’s rich linguistic diversity. Our mission is to provide an accessible and engaging way for people to learn, explore, and appreciate the 42+ languages spoken across Kenya. By combining educational resources with a modern web and mobile interface, LingoKen is dedicated to building connections between people, cultures, and communities.
-
----
-
-## Our Mission
-
-At LingoKen, our mission is to:
-- **Promote Language Learning**: Facilitate language learning for anyone interested in Kenya's unique dialects and linguistic traditions.
-- **Preserve Cultural Heritage**: Act as a bridge to preserve and share Kenya’s languages, fostering understanding across different communities.
-- **Support Inclusivity**: Make language resources accessible to all, enabling anyone—whether a language enthusiast, educator, or student—to dive deep into Kenya's cultural richness.
+  - title: About LingoKen
+    details: LingoKen is a digital platform designed to celebrate Kenya’s diverse languages. Our goal is making it easy and engaging for people to learn, explore, and appreciate the 42+ dialetcs. By blending educational resources with a user-friendly interface, LingoKen connects people, cultures, and communities.
+  - title: Our Mission
+    details: We aim to promote language learning and appreciation, offering access to unique dialects and traditions. LingoKen acts as a bridge, preserving and sharing languages to foster understanding and inclusivity across communities, whether one is an enthusiast, educator, or student ready to dive.
+  - title: Why Us
+    details: Our platform offers essential greetings, key grammar rules, authentic audio pronunciations, and rich cultural insights, allowing users to deeply engage with Kenya’s diverse languages and traditions.
 
 ---
 
 ## What We Offer
 
 ### Interactive Language Pages
-Each language on LingoKen, from **Borana** to **Kikuyu**, has dedicated sections that include:
+Each language on LingoKen, has dedicated sections that include:
 - **Basic Phrases**: Common greetings, expressions, and conversational essentials.
 - **Grammar and Structure**: Key grammatical rules and unique language structures.
 - **Audio Pronunciations**: Hear and practice correct pronunciation from native speakers.

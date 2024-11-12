@@ -35,6 +35,10 @@ export default defineConfig({
         ]
       }
     ],
+    search: {
+      provider: 'local'
+
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wakoliVotes/lingoken' },
@@ -46,8 +50,8 @@ export default defineConfig({
 
     ],
     footer: {
-      message: 'Developed by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',
-      copyright: 'Copyright © 2024 LingoKen | All rights reserved.'
+      message: 'Developed by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',      
+      copyright: 'Copyright © 2024 LingoKen | All rights reserved. | Powered by VitePress & Vercel'
     },
   },
 })
