@@ -39,8 +39,14 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/wakoliVotes/lingoken' },
       { icon: 'twitter', link: '' },
       { icon: 'youtube', link: '' },
-      { icon: 'medium', link: '' }
+      { icon: 'medium', link: '' },
+      { icon: 'instagram', link: ''},
+      { icon: 'tiktok', link: ''}
 
-    ]
-  }
+    ],
+    footer: {
+      message: 'Developed by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',
+      copyright: 'Copyright © 2024 LingoKen | All rights reserved.'
+    },
+  },
 })
