@@ -9,14 +9,15 @@ hero:
   tagline: Kenyan Language Learning Platform
   actions:
     - theme: brand
-      text: Start Learning
-      link: /markdown-examples
+      text: Learn      
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Engage      
     - theme: brand
-      text: Agikuyu
-      link: /docs/borana/
+      text: Celebrate
+    - theme: alt
+      text: Connect      
+    - theme: brand
+      text: Explore
 
 features:
   - title: About LingoKen
