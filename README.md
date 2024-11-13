@@ -17,6 +17,28 @@
 
 Each language has its dedicated page, with sub-pages covering key aspects like vocabulary, grammar, and cultural insights.
 
+### General Structure
+
+```txt
+
+project-root/
+│
+├── .vitepress/
+│   ├── config.ts                 # VitePress configuration file
+│   └── languages.ts              # TypeScript file with language data
+│
+├── components/
+│   ├── GrammarSection.vue        # Vue component for Grammar
+│   ├── PhrasesSection.vue        # Vue component for Phrases
+│   ├── AudioSection.vue          # Vue component for Audio
+│   └── CulturalInsightsSection.vue # Vue component for Cultural Insights
+│
+└── languages/
+    ├── [language].md             # Dynamic language Markdown files
+    └── (e.g., kikuyu.md, swahili.md)
+```
+
+
 ## Features
 
 - **Language-Specific Pages:** Navigate to dedicated pages for each language and explore dialect-specific sub-sections.
