@@ -7,6 +7,21 @@ export default defineConfig({
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   head: [
     ['link', { rel: 'icon', href: '/assets/favicon/favicon.ico', type: 'image/x-icon' }],
+    [
+      'script',
+      {
+        async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-GCPSMKWM3V' },
+    ],
+    [
+      'script',
+      {},
+      `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-GCPSMKWM3V');
+      `,
+    ],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
