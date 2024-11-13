@@ -29,6 +29,8 @@ features:
 
 ---
 
+<img src="/assets/lingoken2.png" alt="LingoKen logo" style="max-height: 400px; text-align: center;" width="100%" />
+
 ## What We Offer
 
 ### Interactive Language Pages
