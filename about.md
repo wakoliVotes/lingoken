@@ -62,4 +62,4 @@ Thank you for being a part of this journey!
 
 ---
 
-Ready to start learning? [Explore Languages](/)
+Ready to start learning? [Explore Dialects](/)

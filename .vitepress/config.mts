@@ -6,7 +6,7 @@ export default defineConfig({
   title: "LingoKen",
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/assets/favicon/favicon.ico', type: 'image/x-icon' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
