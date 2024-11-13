@@ -23,6 +23,7 @@ export default defineConfig({
       `,
     ],
   ],
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/assets/favlogo.png',
