@@ -6,7 +6,7 @@ export default defineConfig({
   title: "LingoKen",
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon/favicon.ico', type: 'image/x-icon' }],
+    ['link', { rel: 'icon', href: '.vitepress/favicon.ico', type: 'image/x-icon' }],
     [
       'script',
       {
@@ -26,22 +26,22 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/favlogo.png',
+    logo: '.vitepress/favlogo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about'},
       { text: 'Examples', link: '/markdown-examples' },
       { text: 'Languages', items : [
-        { text: 'Borana', link: '/borana/' },
-        { text: 'Luhya', link: '/luhya/' },
-        { text: 'Meru', link: '/meru/' },
-        { text: 'Swahili', link: '/swahili/' },
-        { text: 'Kamba', link: '/kamba/' },
-        { text: 'Kalenjin', link: '/kalenjin/' },
-        { text: 'Turkana', link: '/turkana/' },
-        { text: 'Orma', link: '/orma/' },
-        { text: 'Dholuo', link: '/dholuo/' },
-        { text: 'Kikuyu', link: '/kikuyu/' }
+        { text: 'Borana', link: '/docs/borana/' },
+        { text: 'Luhya', link: '/docs/luhya/' },
+        { text: 'Meru', link: '/docs/meru/' },
+        { text: 'Swahili', link: '/docs/swahili/' },
+        { text: 'Kamba', link: '/docs/kamba/' },
+        { text: 'Kalenjin', link: '/docs/kalenjin/' },
+        { text: 'Turkana', link: '/docs/turkana/' },
+        { text: 'Orma', link: '/docs/orma/' },
+        { text: 'Dholuo', link: '/docs/dholuo/' },
+        { text: 'Kikuyu', link: '/docs/kikuyu/' }
 
       ]}
     ],

@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Start Learning
-      link: /markdown-examples
+      link: ./about
     - theme: alt
       text: API Examples
       link: /api-examples

@@ -15,7 +15,7 @@ hero:
       link: /api-examples
     - theme: brand
       text: Agikuyu
-      link: /docs/borana/
+      link: /docs/kikuyu/
 
 features:
   - title: Agikuyu
