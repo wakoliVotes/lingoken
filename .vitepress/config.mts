@@ -48,12 +48,14 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Languages',
         items: [
-          { text: 'Markdown ExamplesQQQQ', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Kikuyu', link: '/docs/kikuyu' },
+          { text: 'Borana', link: '/docs/borana' },
+          { text: 'Meru', link: '/docs/meru' }
         ]
-      }
+      },
+      
     ],
     search: {
       provider: 'local'
@@ -80,6 +82,6 @@ export default defineConfig({
     notFound: {
       // Custom 404 Page Configuration
       title: 'COMING SOON - WORKING TO BRING THIS PAGE TO LIFE!',
-    }
+    },
   },
 })
