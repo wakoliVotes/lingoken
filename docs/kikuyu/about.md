@@ -162,7 +162,6 @@ Here are some answers to common questions about the Kikuyu language:
 ---
 
 ## Close Up
-# Danger
 
 Thank you for exploring the Kikuyu language on LingoKen! We hope you enjoy learning and celebrating the richness of Kikuyu language and culture. Keep practicing, and remember—language learning is a journey!
 

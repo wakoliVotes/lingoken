@@ -45,18 +45,41 @@ export default defineConfig({
 
       ]}
     ],
-
     sidebar: [
       {
         text: 'Languages',
         items: [
-          { text: 'Kikuyu', link: '/docs/kikuyu' },
-          { text: 'Borana', link: '/docs/borana' },
-          { text: 'Meru', link: '/docs/meru' }
+          {
+            text: 'Kikuyu',
+            collapsed: false,
+            items: [
+              { text: 'About | History', link: '/docs/kikuyu/about' },
+              { text: 'Grammar', link: '/docs/kikuyu/grammar' },
+              { text: 'Vocabulary', link: '/docs/kikuyu/vocabulary' },
+              { text: 'Culture Insights', link: '/docs/kikuyu/culture-insights' }
+            ]
+          },
+          {
+            text: 'Borana',
+            collapsed: false,
+            items: [
+              { text: 'Grammar', link: '/docs/borana/grammar' },
+              { text: 'Vocabulary', link: '/docs/borana/vocabulary' },
+              { text: 'Culture Insights', link: '/docs/borana/culture-insights' }
+            ]
+          },
+          {
+            text: 'Meru',
+            collapsed: false,
+            items: [
+              { text: 'Grammar', link: '/docs/meru/grammar' },
+              { text: 'Vocabulary', link: '/docs/meru/vocabulary' },
+              { text: 'Culture Insights', link: '/docs/meru/culture-insights' }
+            ]
+          }
         ]
-      },
-      
-    ],
+      }
+    ],    
     search: {
       provider: 'local'
 
