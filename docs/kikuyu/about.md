@@ -69,7 +69,46 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
   - 5: **tâtâ**
   - 6: **
   - 7: **nânâ**
+  - 8: **nânâ**
+  - 9: **nânâ**
   - 10: **kumi**
+  - 11: **kumi na mwega**
+  - 12: **kumi na mbîrî**
+  - 13: **kumi na tatu**
+  - 14: **kumi na nânâ**
+  - 15: **kumi na tâtâ**
+  - 16: **kumi na nânâ**
+  - 17: **kumi na nânâ**
+  - 18: **kumi na nânâ**
+  - 19: **kumi na nânâ**
+  - 20: **kumi na t
+  - 21: **kumi na nânâ**
+  - 22: **kumi na nânâ**
+  - 23: **kumi na nânâ**
+  - 24: **kumi na nânâ**
+  - 25: **kumi na nânâ**
+  - 26: **kumi na nânâ**
+  - 27: **kumi na nânâ**
+  - 28: **kumi na nânâ**
+  - 29: **kumi na nânâ**
+  - 30: **kumi na nânâ**
+  - 40: **kumi na nânâ**
+  - 50: **kumi na nânâ**
+  - 60: **kumi na nânâ**
+  - 70: **kumi na nânâ**
+  - 80: **kumi na nânâ**
+  - 90: **kumi na nânâ**
+  - 100: **kumi na nânâ**
+  - 200: **kumi na nânâ**
+  - 300: **kumi na nânâ**
+  - 400: **kumi na nânâ**
+  - 500: **kumi na nânâ**
+  - 600: **kumi na nânâ**
+  - 700: **kumi na nânâ**
+  - 800: **kumi na nânâ**
+  - 900: **kumi na nânâ**
+  - 1000: **kumi na nânâ**
+
 
 - **Family**:
   - Mother: **Mûgîkûyû**
