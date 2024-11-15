@@ -65,6 +65,10 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
   - 1: **mwega**
   - 2: **mbîrî**
   - 3: **tatu**
+  - 4: **nânâ**
+  - 5: **tâtâ**
+  - 6: **
+  - 7: **nânâ**
   - 10: **kumi**
 
 - **Family**:

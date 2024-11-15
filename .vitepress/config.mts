@@ -100,7 +100,7 @@ export default defineConfig({
     },
     editLink: {
       pattern: 'wakoliVotes/lingoken',
-      text: 'Fork & Edit Page on GitHub'
+      text: 'Fork & Edit on GitHub'
     },
     notFound: {
       // Custom 404 Page Configuration
