@@ -131,7 +131,8 @@ Listening to native speakers is the best way to learn proper pronunciation. Belo
 - **Wîhîî (Hello)**
 - **Nîwe wîrî (How are you?)**
 
-[Audio: Listen and repeat](#)
+
+[Audio: Listen and repeat on YouTUBE](#)
 
 ---
 
