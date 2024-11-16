@@ -95,7 +95,7 @@ export default defineConfig({
 
     ],
     footer: {
-      message: 'Developed by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',      
+      message: 'Created by <a href="https://anchormiles.vercel.app" target="_blank" rel="noopener noreferrer" >AnchorMiles</a>',      
       copyright: 'Copyright © 2024 LingoKen | All rights reserved. | Powered by VitePress & Vercel'
     },
     editLink: {
