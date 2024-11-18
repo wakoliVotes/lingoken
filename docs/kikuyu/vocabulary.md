@@ -48,6 +48,19 @@ Common verbs and adjectives.
 ## Fruits
 - Mango
 - Pineapple
+- Banana
+- Apple
+- Grapes
+- Orange
+- Lemon
+- Coconut
+- Guava
+- Pear
+- Watermelon
+- Strawberry
+- Kiwi
+- Apricot
+- Mango
 
 
 ## Clothings
