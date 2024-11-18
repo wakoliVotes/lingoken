@@ -12,6 +12,6 @@ Location: Chania Ave. Kilimani, Nairobi, Kenya
 -->
 <!-- // Write section -->
 
-
+| Description | Hours/Day | No. Of Lessons/Week | Approx. Hours/Month |
 
 [Enrol Now - Start Learning]()
