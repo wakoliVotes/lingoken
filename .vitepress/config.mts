@@ -44,7 +44,14 @@ export default defineConfig({
         { text: 'Dholuo', link: '/docs/dholuo/' },
         { text: 'Kikuyu', link: '/docs/kikuyu/' }
 
-      ]}
+      ]},
+      { text: 'More', items: [
+        { text: 'About Us', link: '/about' },
+        { text: 'Enrol to Learn', link: '/courses' },
+        { text: 'Our Team', link: '/team' },
+        { text: 'Blog', link: '/blog' },
+        { text: 'Contact', link: '/contact' },
+      ] }
     ],
     sidebar: [
       {

@@ -7,7 +7,7 @@ hero:
   text: Explore Kenya’s 42+ Dialects — Learn; Celebrate Diversity!
   tagline: Kenyan Language Learning Platform
   image:
-    src: /assets/lingoken1.png
+    src: /assets/lingoround.png
     alt: LingoKen
   actions:
     - theme: brand
