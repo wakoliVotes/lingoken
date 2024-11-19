@@ -17,8 +17,8 @@ hero:
       text: API Examples
       link: /api-examples
     - theme: brand
-      text: Agikuyu
-      link: /docs/kikuyu/
+      text: Courses
+      link: courses/
 
 features:
   - title: Agikuyu

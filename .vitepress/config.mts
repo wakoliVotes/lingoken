@@ -27,7 +27,7 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '.vitepress/favlogo.png',
+    logo: '.vitepress/lingoround1.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about'},
