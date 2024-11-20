@@ -45,7 +45,7 @@ export default defineConfig({
         { text: 'Kikuyu', link: '/docs/kikuyu/' }
 
       ]},
-      { text: 'More', items: [
+      { text: 'About', items: [
         { text: 'About Us', link: '/about' },
         { text: 'Enrol to Learn', link: '/courses' },
         { text: 'Our Team', link: '/team' },

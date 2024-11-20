@@ -31,7 +31,7 @@ Kenya is home to a rich tapestry of over 42 languages, each with its unique char
 We offer a range of study plans designed to fit different learning needs and schedules. Choose the one that suits your pace and goals.
 
 | **Program Type**   | **Study Time (hrs/day)** | **Sessions per Week** | **Total Hours per Month** |
-|:-------------------:|:------------------------:|:----------------------:|:--------------------------:|
+|-------------------|:------------------------:|:----------------------:|:--------------------------:|
 | **Basic**          | 1.5                      | 3                      | 24                         |
 | **Enhanced**       | 2                        | 4                      | 32                         |
 | **Focused**        | 2                        | 5                      | 40                         |
