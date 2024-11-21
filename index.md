@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "LingoKen"
-  text: Explore Kenya’s 42+ Dialects — Learn; Celebrate Diversity!
+  text: Explore Diverse Dialects — Learn; Celebrate Diversity!
   tagline: Kenyan Language Learning Platform
   image:
     src: /assets/lingoround.png
