@@ -84,7 +84,11 @@ export default defineConfig({
               { text: 'Vocabulary', link: '/docs/meru/vocabulary' },
               { text: 'Culture Insights', link: '/docs/meru/culture-insights' }
             ]
-          }
+          },
+          {
+            text: 'Enrol to Learn', link: '/course'
+
+          },
         ]
       }
     ],    
