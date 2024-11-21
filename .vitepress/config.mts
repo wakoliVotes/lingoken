@@ -86,7 +86,7 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Enrol to Learn', link: '/course'
+            text: 'Enrol to Learn', link: '/courses'
 
           },
         ]
