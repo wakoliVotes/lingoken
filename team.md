@@ -3,7 +3,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: './assets/lingoround1.png',
+    avatar: '/lingoround1.png',
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',
@@ -16,7 +16,7 @@ const members = [
     ]
   },
     {
-    avatar: './assets/lingoround1.png',
+    avatar: '/lingoround1.png',
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',
@@ -29,7 +29,7 @@ const members = [
     ]
   },
     {
-    avatar: './assets/lingoround1.png',
+    avatar: '/lingoround1.png',
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',
@@ -42,7 +42,7 @@ const members = [
     ]
   },
     {
-    avatar: './assets/lingoround1.png',
+    avatar: '/lingoround1.png',
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',
@@ -55,7 +55,7 @@ const members = [
     ]
   },
     {
-    avatar: './assets/lingoround1.png',
+    avatar: '/lingoround1.png',
     name: 'Votez',
     org: 'AnchorMiles',
     sponsor: 'true',
@@ -68,7 +68,7 @@ const members = [
     ]
   },
     {
-    avatar: './assets/lingoround1.png',
+    avatar: '/lingoround1.png',
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',

@@ -29,7 +29,7 @@ features:
 
 ---
 
-<img src="/assets/lingoken2.png" alt="LingoKen logo" style="max-height: 400px; text-align: center; margin-top: 10px; border-radius: 12px" width="100%" />
+<img src="/lingoken2.png" alt="LingoKen logo" style="max-height: 400px; text-align: center; margin-top: 10px; border-radius: 12px" width="100%" />
 
 ## What We Offer
 

@@ -7,7 +7,7 @@ hero:
   text: Explore Diverse Dialects — Learn; Celebrate Diversity!
   tagline: Kenyan Language Learning Platform
   image:
-    src: /assets/lingoround.png
+    src: /lingoround.png
     alt: LingoKen
   actions:
     - theme: brand
