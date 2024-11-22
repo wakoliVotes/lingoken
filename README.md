@@ -1,4 +1,6 @@
 # LingoKen
+<img src="public/lingoken5.png" alt="LingoKen Logo" width="100%" height="350" style="display: block; margin: 16px auto; text-align: center; border-radius: 8px "/>  
+
 
 **LingoKen** is a Kenyan web and mobile-based platform for exploring, enjoying, and learning the diverse languages across Kenya's 42+ dialects. Built with [VitePress](https://vitepress.vuejs.org/) for fast development and beautiful documentation.
 
