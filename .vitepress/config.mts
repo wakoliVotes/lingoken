@@ -6,7 +6,7 @@ export default defineConfig({
   title: "LingoKen",
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   head: [
-    ['link', { rel: 'icon', href: '/feavicon.ico', type: 'image/x-icon' }],
+    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }],
     // Google tag (gtag.js)
     [
       'script',
