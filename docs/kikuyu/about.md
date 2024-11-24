@@ -61,53 +61,32 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 
 ### Everyday Vocabulary
 
-- **Numbers**: 
-  - 1: **mwega**
-  - 2: **mbîrî**
-  - 3: **tatu**
-  - 4: **nânâ**
-  - 5: **tâtâ**
-  - 6: **
-  - 7: **nânâ**
-  - 8: **nânâ**
-  - 9: **nânâ**
-  - 10: **kumi**
-  - 11: **kumi na mwega**
-  - 12: **kumi na mbîrî**
-  - 13: **kumi na tatu**
-  - 14: **kumi na nânâ**
-  - 15: **kumi na tâtâ**
-  - 16: **kumi na nânâ**
-  - 17: **kumi na nânâ**
-  - 18: **kumi na nânâ**
-  - 19: **kumi na nânâ**
-  - 20: **kumi na nânâ**
-  - 21: **kumi na nânâ**
-  - 22: **kumi na nânâ**
-  - 23: **kumi na nânâ**
-  - 24: **kumi na nânâ**
-  - 25: **kumi na nânâ**
-  - 26: **kumi na nânâ**
-  - 27: **kumi na nânâ**
-  - 28: **kumi na nânâ**
-  - 29: **kumi na nânâ**
-  - 30: **kumi na nânâ**
-  - 40: **kumi na nânâ**
-  - 50: **kumi na nânâ**
-  - 60: **kumi na nânâ**
-  - 70: **kumi na nânâ**
-  - 80: **kumi na nânâ**
-  - 90: **kumi na nânâ**
-  - 100: **kumi na nânâ**
-  - 200: **kumi na nânâ**
-  - 300: **kumi na nânâ**
-  - 400: **kumi na nânâ**
-  - 500: **kumi na nânâ**
-  - 600: **kumi na nânâ**
-  - 700: **kumi na nânâ**
-  - 800: **kumi na nânâ**
-  - 900: **kumi na nânâ**
-  - 1000: **kumi na nânâ**
+| **Number** | **Kikuyu**          | **Number** | **Kikuyu**          |
+|------------|----------------------|------------|----------------------|
+| 1          | îmwe                | 11         | îkûmi na îmwe       |
+| 2          | îrî                 | 12         | îkûmi na îrî        |
+| 3          | îtatû               | 13         | îkûmi na îtatû      |
+| 4          | îna                 | 14         | îkûmi na îna        |
+| 5          | îtano               | 15         | îkûmi na îtano      |
+| 6          | îthathatû           | 16         | îkûmi na îthathatû  |
+| 7          | mûgwanja            | 17         | îkûmi na mûgwanja   |
+| 8          | înyaanya            | 18         | îkûmi na înyaanya   |
+| 9          | kenda               | 19         | îkûmi na kenda      |
+| 10         | îkûmi               | 20         | mîrongo îrî         |
+| 21         | mîrongo îrî na îmwe | 30         | mîrongo îtatû       |
+| 22         | mîrongo îrî na îrî  | 40         | mîrongo îna         |
+| 23         | mîrongo îrî na îtatû| 50         | mîrongo îtano       |
+| 24         | mîrongo îrî na îna  | 60         | mîrongo îthathatû   |
+| 25         | mîrongo îrî na îtano| 70         | mîrongo mûgwanja    |
+| 26         | mîrongo îrî na îthathatû| 80      | mîrongo înyaanya    |
+| 27         | mîrongo îrî na mûgwanja | 90      | mîrongo kenda       |
+| 28         | mîrongo îrî na înyaanya| 100     | îgana              |
+| 29         | mîrongo îrî na kenda| 200        | magana mâîrî        |
+| 300        | magana mâtatû       | 400        | magana mâna         |
+| 500        | magana mâtano       | 600        | magana mâthathatû   |
+| 700        | magana mûgwanja     | 800        | magana mânyaanya    |
+| 900        | magana makenda      | 1000       | ngiri îmwe          |
+
 
 
 - **Family**:
