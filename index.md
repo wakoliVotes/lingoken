@@ -21,7 +21,7 @@ hero:
       link: courses/
 
 features:
-  - title: Agikuyu
+  - title: Kikuyu
     details: COMING SOON
   - title: Luo
     details: COMING SOON

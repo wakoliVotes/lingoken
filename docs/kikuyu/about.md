@@ -81,7 +81,7 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
   - 17: **kumi na nânâ**
   - 18: **kumi na nânâ**
   - 19: **kumi na nânâ**
-  - 20: **kumi na t
+  - 20: **kumi na nânâ**
   - 21: **kumi na nânâ**
   - 22: **kumi na nânâ**
   - 23: **kumi na nânâ**
