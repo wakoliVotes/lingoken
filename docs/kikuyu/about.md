@@ -62,7 +62,7 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 ### Everyday Vocabulary
 
 | **Number** | **Kikuyu**          | **Number** | **Kikuyu**          |
-|------------|----------------------|------------|----------------------|
+|:----------:|:-------------------:|:----------:|:-------------------:|
 | 1          | îmwe                | 11         | îkûmi na îmwe       |
 | 2          | îrî                 | 12         | îkûmi na îrî        |
 | 3          | îtatû               | 13         | îkûmi na îtatû      |
@@ -89,11 +89,21 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 
 
 
-- **Family**:
-  - Mother: **Mûgîkûyû**
-  - Father: **Baba**
-  - Brother: **Wîhîî**
-  - Sister: **Mûkûrû**
+- **Family Members**:
+
+| **English**      | **Kikuyu**       | **English**      | **Kikuyu**        |
+|:------------------:|:------------------:|:------------------:|:-------------------:|
+| Father           | Baabu            | Mother           | Mûrâtina          |
+| Son              | Mûhîrî           | Daughter         | Mûtumia           |
+| Brother          | Nduga            | Sister           | Nduka             |
+| Grandfather      | Gûkû             | Grandmother      | Kîrîra            |
+| Uncle (paternal) | Mûtumia wa baabu | Aunt (paternal)  | Mûkûrû wa baabu   |
+| Uncle (maternal) | Mûtumia wa mûrâtina | Aunt (maternal) | Mûkûrû wa mûrâtina|
+| Nephew           | Mwana wa nduga   | Niece            | Mwana wa nduka    |
+| Husband          | Mûngû           | Wife             | Mûthoni           |
+| Father-in-law    | Baabu wa mûtumia | Mother-in-law    | Mûrâtina wa mûtumia|
+| Brother-in-law   | Nduga wa mûtumia | Sister-in-law    | Nduka wa mûtumia  |
+
 
 ### Action Words
 - Eat: **kûnya**
