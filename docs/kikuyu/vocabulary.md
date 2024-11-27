@@ -10,8 +10,19 @@ Common verbs and adjectives.
 # Vocabulary of Kikuyu
 
 ## Greetings
-- Hello: _Nĩwĩ._  
-- How are you?: _Wĩ mwega?_
+
+| **English Phrase**             | **Kikuyu Translation**  | **English Phrase**        | **Kikuyu Translation** |
+|---------------------------------|-------------------------|---------------------------|-------------------------|
+| Hello                           | Nĩwĩ                   | How are you?              | Wĩ mwega?              |
+| Good morning                    | Nĩwakĩra                | Good evening              | Nĩwamaitha             |
+| Welcome                         | Nĩwĩgĩa                | Goodbye                   | Tigwo na wega          |
+| Thank you                       | Nĩwega                 | I am fine                 | Nĩĩ mwega              |
+| What is your name?              | Wĩtwa nĩaĩ?            | My name is ...            | Nĩjĩtwa ...            |
+| How is your family?             | Andũ akwa nĩ aĩ?       | See you later             | Nĩũone              |
+| Sorry                           | Nĩũrathime             | Yes                       | Ii                    |
+| No                              | Ti                      | How was your day?         | Mũthenya wakwa ũrĩ aĩ? |
+| Have a good day                 | Hĩndĩ ya mwega         | Have a good night         | Gũtigĩrĩo na ũthoni   |
+
 
 ## Numbers
 - One: _Ĩmwe_  
