@@ -25,8 +25,25 @@ Common verbs and adjectives.
 
 
 ## Numbers
-- One: _Ĩmwe_  
-- Two: _Iĩrĩ_
+
+
+```markdown
+| **Number**  | **Kikuyu Translation** | **Number** | **Kikuyu Translation** |
+|-------------|-------------------------|------------|-------------------------|
+| One         | Ĩmwe                   | Eleven     | Kumi na ĩmwe           |
+| Two         | Iĩrĩ                   | Twelve     | Kumi na iĩrĩ           |
+| Three       | Ithatu                 | Thirteen   | Kumi na ithatu         |
+| Four        | Inya                   | Fourteen   | Kumi na inya           |
+| Five        | Ithano                 | Fifteen    | Kumi na ithano         |
+| Six         | Ithathatu              | Sixteen    | Kumi na ithathatu      |
+| Seven       | Mũgwanja               | Seventeen  | Kumi na mũgwanja       |
+| Eight       | Inyanya                | Eighteen   | Kumi na inyanya        |
+| Nine        | Kenda                  | Nineteen   | Kumi na kenda          |
+| Ten         | Kumi                   | Twenty     | Iĩrĩ kũmi              |
+| Hundred     | Igana                  | Two Hundred| Igana iĩrĩ             |
+| Thousand    | Ĩtũka                  | Ten Thousand| Kumi na ĩtũka         |
+```
+
 
 ## People/Humans
 - Man - _Mũrĩ_
