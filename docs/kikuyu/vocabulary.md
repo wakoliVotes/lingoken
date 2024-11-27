@@ -9,7 +9,7 @@ Common verbs and adjectives.
 
 # Vocabulary of Kikuyu
 
-## Greetings
+## Greetings[Makiira]
 
 | **English Phrase**             | **Kikuyu Translation**  | **English Phrase**        | **Kikuyu Translation** |
 |---------------------------------|-------------------------|---------------------------|-------------------------|
@@ -24,7 +24,7 @@ Common verbs and adjectives.
 | Have a good day                 | Hĩndĩ ya mwega         | Have a good night         | Gũtigĩrĩo na ũthoni   |
 
 
-## Numbers
+## Numbers[Mabara]
 
 
 | **Number**  | **Kikuyu Translation** | **Number** | **Kikuyu Translation** |
@@ -44,11 +44,11 @@ Common verbs and adjectives.
 
 
 
-## People/Humans
+## People/Humans[Andũ]
 
 
 | **English**         | **Kikuyu Translation** |
-|:-------------------:|:----------------------:|
+|---------------------|:----------------------:|
 | Man                 | Mũrĩ                   |
 | Woman               | Mũrĩrĩ                 |
 | Boy                 | Kĩhĩĩ                  |
@@ -64,7 +64,7 @@ Common verbs and adjectives.
 | Friend              | Mũrata                 |
 
 
-## Animals
+## Animals[Nyamũ]
 - Dog: _Mũrĩrĩ_
 - Cat: _Mũrĩrĩ_
 - Cow
