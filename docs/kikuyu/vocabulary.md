@@ -45,8 +45,24 @@ Common verbs and adjectives.
 
 
 ## People/Humans
-- Man - _Mũrĩ_
-- Woman - _Mũrĩrĩ_
+
+
+| **English**         | **Kikuyu Translation** |
+|:-------------------:|:----------------------:|
+| Man                 | Mũrĩ                   |
+| Woman               | Mũrĩrĩ                 |
+| Boy                 | Kĩhĩĩ                  |
+| Girl                | Kanini                 |
+| Child               | Mũrũ                   |
+| Elder (Man)         | Mũtongoria wa athĩrĩ   |
+| Elder (Woman)       | Mũtongoria wa airĩrĩ   |
+| Person/Individual   | Mũndũ                  |
+| People              | Andũ                   |
+| Young Man           | Kĩrĩgũ                 |
+| Young Woman         | Mũtumia Mũrĩkũrũ       |
+| Stranger            | Mũrata mũtarĩ          |
+| Friend              | Mũrata                 |
+
 
 ## Animals
 - Dog: _Mũrĩrĩ_
