@@ -27,7 +27,6 @@ Common verbs and adjectives.
 ## Numbers
 
 
-```markdown
 | **Number**  | **Kikuyu Translation** | **Number** | **Kikuyu Translation** |
 |-------------|-------------------------|------------|-------------------------|
 | One         | Ĩmwe                   | Eleven     | Kumi na ĩmwe           |
@@ -42,7 +41,7 @@ Common verbs and adjectives.
 | Ten         | Kumi                   | Twenty     | Iĩrĩ kũmi              |
 | Hundred     | Igana                  | Two Hundred| Igana iĩrĩ             |
 | Thousand    | Ĩtũka                  | Ten Thousand| Kumi na ĩtũka         |
-```
+
 
 
 ## People/Humans
