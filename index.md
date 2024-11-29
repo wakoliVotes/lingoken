@@ -22,7 +22,8 @@ hero:
 
 features:
   - title: Kikuyu
-    details: COMING SOON
+    details: Learn & Explore
+    link: /docs/kikuyu/
   - title: Luo
     details: COMING SOON
   - title: Borana
