@@ -77,15 +77,84 @@ Common verbs and adjectives.
 - Duck
 - 
 
-## Food Items
+## Foods[Irio]
 - Water: _Maji_  
 - Bread: _Gĩcungwa_
 
 
-## Trees/Plants
-- Tree: _Mũrĩrĩ_
-- Flower: _Mũrĩrĩ_
-- Grass: _Mũrĩrĩ_
+## Trees/Plants [Mĩtĩ/Mĩrũa]  
+## Fruits [Magũrũrũ]  
+## Clothings [Ngũo]  
+## Sizes [Maũndũ ma ũkĩrĩra]  
+## Days Of The Week [Mĩaka ya mũthenya]  
+## Months Of The Year [Mĩaka ya Mweri]  
+## Seasons [Mathathi]  
+## Colors [Mĩrangi]  
+## Family [Andũ a nyumba]  
+## Actions [Macio ma kũhota] [Macio ma Gwĩkĩra]
+
+| **English Action** | **Kikuyu Action** |
+|--------------------|-------------------|
+| Eat               | Kũria             |
+| Drink             | Kũnyua            |
+| Sleep             | Kũiga             |
+| Run               | Kũimĩra           |
+| Walk              | Kũgenda           |
+| Jump              | Kũhũtha           |
+| Swim              | Kũhonia           |
+| Fly               | Kũrũka            |
+| Sing              | Kũhũthania        |
+| Dance             | Kũina             |
+| Play              | Kũgũĩka           |
+| Study             | Kũhanda           |
+| Work              | Kũrũmia           |
+| Read              | Kũsoma            |
+| Write             | Kũandika          |
+| Listen            | Kũĩgwĩra          |
+| Speak             | Kũigua            |
+| Think             | Kũhĩndĩka         |
+| Feel              | Kũrĩka            |
+| Believe           | Kũtigĩria         |
+| Want              | Kũigaĩra          |
+| Need              | Kũhuthĩra         |
+| Like              | Kũhoyanĩra        |
+| Love              | Kũũga             |
+| Hate              | Kũigĩra           |
+| Fear              | Kũmatĩka          |
+| Hope              | Kũhoya            |
+| Dream             | Kũrega            |
+| Remember          | Kũrutĩra          |
+| Forget            | Kũirigĩria        |
+| Understand        | Kũmanya           |
+| Know              | Kũmanya           |
+| See               | Kũwona            |
+| Hear              | Kũĩga             |
+| Touch             | Kũinya            |
+| Smell             | Kũnjekia          |
+| Taste             | Kũhũthia          |
+| Breathe           | Kũgũthĩa          |
+| Live              | Kũikaraga         |
+| Die               | Kũriaho           |
+| Be                | Kũringĩra         |
+| Have              | Kũringĩra         |
+| Give              | Kũhe              |
+| Take              | Kũiga             |
+| Send              | Kũrega            |
+| Receive           | Kũhorwo           |
+| Buy               | Kũgũrũra          |
+| Sell              | Kũtheca           |
+| Make              | Kũhitha           |
+| Break             | Kũigaũka          |
+| Fix               | Kũthithia         |
+| Clean             | Kũhũthithia       |
+| Wash              | Kũgutha           |
+| Iron              | Kũgaragĩra        |
+| Cook              | Kũruga            |
+| Bake              | Kũhotora          |
+| Wake up           | Kũrutithia        |
+
+
+## Things/Properties [Maũndũ/Mĩthondeko]
 
 
 ## Fruits

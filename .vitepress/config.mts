@@ -68,6 +68,15 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Luhya',
+            collapsed: false,
+            items: [
+              { text: 'Grammar', link: '/docs/luhya/grammar' },
+              { text: 'Vocabulary', link: '/docs/luhya/vocabulary' },
+              { text: 'Culture Insights', link: '/docs/luhya/culture-insights' }
+            ]
+          },
+          {
             text: 'Borana',
             collapsed: false,
             items: [
