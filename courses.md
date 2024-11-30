@@ -76,7 +76,7 @@ Visit our **[Languages Page](#)** to explore available options and select the la
 Decide how intensively you want to study. Whether you have 30 minutes a day or a few hours to dedicate, we have a plan for you.
 
 ### 3. **Enroll and Start Learning**
-Click the **[Enroll Now](#)** button, and you’ll gain immediate access to your chosen course.  
+Click the **[Enroll Now](/contact.md)** button, and you’ll gain immediate access to your chosen course.  
 
 ---
 
@@ -84,7 +84,7 @@ Click the **[Enroll Now](#)** button, and you’ll gain immediate access to your
 
 Kenya’s languages are more than words—they are keys to understanding the country's soul. Join us and become a part of this linguistic celebration.  
 
-### [Enroll Now](#)
+### [Enroll Now](/contact.md)
 
 
 
