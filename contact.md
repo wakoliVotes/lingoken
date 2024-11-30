@@ -32,7 +32,6 @@ Fill out the form below, and we’ll get back to you as soon as possible!
   <select id="subject" name="subject" required>
   <option value="general">General Inquiry</option>
   <option value="course">Course Inquiry</option>
-  >
   <option value="feedback">Feedback</option>
   <option value="other">Other</option>
   </select>
