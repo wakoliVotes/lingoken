@@ -27,6 +27,15 @@ Fill out the form below, and we’ll get back to you as soon as possible!
 
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br><br>
+  <!-- Add subject field with options to select  -->
+  <label for="subject">Subject:</label><br>
+  <select id="subject" name="subject" required>
+  <option value="general">General Inquiry</option>
+  <option value="course">Course Inquiry</option>
+  >
+  <option value="feedback">Feedback</option>
+  <option value="other">Other</option>
+  </select>
 
   <label for="message">Message:</label><br>
   <textarea id="message" name="message" rows="4" required></textarea><br><br>
