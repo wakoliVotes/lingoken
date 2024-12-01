@@ -25,7 +25,7 @@ features:
     details: Learn & Explore
     link: /docs/kikuyu/
     image:
-      src: /lingoround.png
+      src: 🈵
 
   - title: Luo
     details: COMING SOON
