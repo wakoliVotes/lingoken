@@ -24,6 +24,9 @@ features:
   - title: Kikuyu
     details: Learn & Explore
     link: /docs/kikuyu/
+    image:
+      src: /lingoround.png
+
   - title: Luo
     details: COMING SOON
   - title: Borana
