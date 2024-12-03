@@ -50,12 +50,12 @@ We offer a range of study plans designed to fit different learning needs and sch
 
 ### Explore the Beauty of Kenyan Dialects:
 We currently offer learning and well-paced courses in the following languages:
-1. [**Kikuyu**](/docs/kikuyu/)  
-2. **Luo**  
-3. **Swahili**  
-4. **Kamba**  
+1. [**Kikuyu**](/docs/kikuyu/)
+2. **Luhya**
+3. **Luo**  
+4. **Swahili**  
 5. **Maasai**  
-6. **Luhya**  
+6. **Kamba**  
 7. **Meru**  
 8. **Turkana**  
 9. **Embu**  
