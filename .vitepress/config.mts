@@ -31,7 +31,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about'},
-      { text: 'Examples', link: '/markdown-examples' },
       { text: 'Languages', items : [
         { text: 'Borana', link: '/docs/borana/' },
         { text: 'Luhya', link: '/docs/luhya/' },
