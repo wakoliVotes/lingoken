@@ -7,17 +7,6 @@ hero:
   # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
   text: Celebrate Diversity
   tagline: Kenyan Language Learning Platform
-  actions:
-    - theme: brand
-      text: Learn      
-    - theme: alt
-      text: Engage      
-    - theme: brand
-      text: Celebrate
-    - theme: alt
-      text: Connect      
-    - theme: brand
-      text: Explore
 
 features:
   - title: About LingoKen
