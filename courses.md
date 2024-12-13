@@ -49,61 +49,7 @@ We offer a range of study plans designed to fit different learning needs and sch
 ## Available Languages
 
 ### Explore the Beauty of Kenyan Dialects:
-We currently offer learning and well-paced courses in the following languages:
-<table>
-    <tr>
-        <th>Language</th>
-        <th>Link</th>
-    </tr>
-    <tr>
-        <td>Kikuyu</td>
-        <td><a href="/docs/kikuyu/">Learn More</a></td>
-    </tr>
-    <tr>
-        <td>Luhya</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Luo</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Swahili</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Maasai</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Kamba</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Meru</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Turkana</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Embu</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Taita</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Samburu</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Pokot</td>
-        <td></td>
-    </tr>
-</table>
+We currently offer learning and well-paced courses allowing for easier planning and learning.
 
 Each course is designed with engaging resources to help you grasp basic phrases, grammar, vocabulary, and cultural nuances.
 
