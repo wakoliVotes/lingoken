@@ -40,7 +40,7 @@ export default defineConfig({
         { text: 'Kalenjin', link: '/docs/kalenjin/' },
         { text: 'Turkana', link: '/docs/turkana/' },
         { text: 'Orma', link: '/docs/orma/' },
-        { text: 'Dholuo', link: '/docs/dholuo/' },
+        { text: 'Luo', link: '/docs/luo/' },
         { text: 'Kikuyu', link: '/docs/kikuyu/' }
 
       ]},
