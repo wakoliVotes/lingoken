@@ -94,7 +94,7 @@ Common verbs and adjectives.
 ## Actions [Macio ma kũhota] [Macio ma Gwĩkĩra]
 
 | **English Action** | **Kikuyu Action** |
-|--------------------|-------------------|
+|--------------------|:-----------------:|
 | Eat               | Kũria             |
 | Drink             | Kũnyua            |
 | Sleep             | Kũiga             |
