@@ -178,7 +178,7 @@ Common verbs and adjectives.
 | Mango              |                   |
 
 
-## Clothings             |
+## Clothings
 - Clothes - Nguo
 - Shirt 
 - Cloth
