@@ -113,6 +113,8 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 
 ---
 
+Learn more [here](/docs/kikuyu/vocabulary.md)
+
 ## Audio Pronunciations
 
 Listening to native speakers is the best way to learn proper pronunciation. Below are audio examples of key phrases:
