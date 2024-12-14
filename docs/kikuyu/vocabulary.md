@@ -158,24 +158,27 @@ Common verbs and adjectives.
 
 
 ## Fruits
-- Mango
-- Pineapple
-- Banana
-- Apple
-- Grapes
-- Orange
-- Lemon
-- Coconut
-- Guava
-- Pear
-- Watermelon
-- Strawberry
-- Kiwi
-- Apricot
-- Mango
+
+| **English Action** | **Kikuyu Action** |
+|--------------------|-------------------|
+| Mango              |                   |
+| Pineapple          |                   |
+| Banana             |                   |
+| Apple              |                   |
+| Grapes             |                   |
+| Orange             |                   |
+| Lemon              |                   |
+| Coconut            |                   |
+| Guava              |                   |
+| Pear               |                   |
+| Watermelon         |                   |
+| Strawberry         |                   |
+| Kiwi               |                   |
+| Apricot            |                   |
+| Mango              |                   |
 
 
-## Clothings
+## Clothings             |
 - Clothes - Nguo
 - Shirt 
 - Cloth
