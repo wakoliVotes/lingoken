@@ -175,8 +175,6 @@ Common verbs and adjectives.
 | Strawberry         |                   |
 | Kiwi               |                   |
 | Apricot            |                   |
-| Mango              |                   |
-
 
 ## Clothings
 - Clothes - Nguo
