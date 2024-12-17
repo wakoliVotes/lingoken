@@ -182,11 +182,14 @@ Common verbs and adjectives.
 | Melon              |                   |
 
 ## Clothings
-- Clothes - Nguo
-- Shirt 
-- Cloth
-- Socks
-- Ear Rings
+
+| Item          | Translation |
+|---------------|-------------|
+| Clothes       | Nguo        |
+| Shirt         |             |
+| Cloth         |             |
+| Socks         |             |
+| Ear Rings     |             |
 - 
 ## Sizes
 - Small
