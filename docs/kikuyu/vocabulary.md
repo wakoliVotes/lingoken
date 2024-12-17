@@ -191,10 +191,13 @@ Common verbs and adjectives.
 | Socks         |             |
 | Ear Rings     |             |
 - 
+
 ## Sizes
-- Small
-- Big
-- Bigger
+| Size    |
+|---------|----------------|
+| Small   |                |
+| Big     |                |
+| Bigger  |                |
 
 ## Days Of The Week
 - Monday:
