@@ -198,15 +198,26 @@ Common verbs and adjectives.
 | Small   |                |
 | Big     |                |
 | Bigger  |                |
+| Biggest |                |
+| Tall    |                |
+| Short   |                |
+| Taller  |                |
+| Tallest |                |
+| Thin    |                |
 
 ## Days Of The Week
-- Monday:
-- Tuesday:
-- Wednesday:
-- Thursday:
-- Friday:
-- Saturday:
-- Sunday:
+| Day         | Translation |
+|-------------|-------------|
+| Monday      |             |
+| Tuesday     |             |
+| Wednesday   |             |
+| Thursday    |             |
+| Friday      |             |
+| Saturday    |             |
+| Sunday      |             |
+
+
+
 
 ## Months Of The Year
 - January:
