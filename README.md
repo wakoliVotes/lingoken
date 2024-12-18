@@ -16,6 +16,7 @@
 - Orma
 - Dholuo
 - Kikuyu
+- Others coming soon
 
 Each language has its dedicated page, with sub-pages covering key aspects like vocabulary, grammar, and cultural insights.
 
