@@ -61,4 +61,5 @@ cd lingoken
 npm install
 
 # Start the development server
+Original VitePress Script
 npm run docs:dev
