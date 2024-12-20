@@ -233,19 +233,6 @@ Common verbs and adjectives.
 | November    |             |
 | December    |             |
 
-## Months Of The Year
-- January:
-- February:
-- March:
-- April:
-- May:
-- June:
-- July:
-- August:
-- September:
-- October:
-- November:
-- December:
 
 ## Seasons
 - Spring:
