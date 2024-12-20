@@ -244,17 +244,21 @@ Common verbs and adjectives.
 
 
 ## Colors
-- Red:
-- Blue:
-- Green:
-- Yellow:
-- Black:
-- White:
-- Brown:
-- Orange:
-- Purple:
-- Pink:
-- Gray:
+| Color      | Translation |
+|------------|-------------|
+| Red        |             |
+| Blue       |             |
+| Green      |             |
+| Yellow     |             |
+| Black      |             |
+| White      |             |
+| Brown      |             |
+| Orange     |             |
+| Purple     |             |
+| Pink       |             |
+| Gray       |             |
+
+
 
 ## Family
 - Mother:
