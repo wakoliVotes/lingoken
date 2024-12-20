@@ -16,6 +16,7 @@
 - Orma
 - Dholuo
 - Kikuyu
+- Others coming soon
 
 Each language has its dedicated page, with sub-pages covering key aspects like vocabulary, grammar, and cultural insights.
 
@@ -60,4 +61,9 @@ cd lingoken
 npm install
 
 # Start the development server
+Original VitePress Script
 npm run docs:dev
+
+Changed for Vercel Deployment
+npm run dev
+
