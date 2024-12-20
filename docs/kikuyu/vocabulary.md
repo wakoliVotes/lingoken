@@ -235,10 +235,13 @@ Common verbs and adjectives.
 
 
 ## Seasons
-- Spring:
-- Summer:
-- Autumn:
-- Winter:
+| Season  | Translation |
+|---------|-------------|
+| Spring  |             |
+| Summer  |             |
+| Autumn  |             |
+| Winter  |             |
+
 
 ## Colors
 - Red:
