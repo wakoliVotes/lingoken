@@ -260,98 +260,104 @@ Common verbs and adjectives.
 
 
 
+
 ## Family
-- Mother:
-- Father:
-- Brother:
-- Sister:
-- Grandmother:
-- Grandfather:
-- Uncle:
-- Aunt:
-- Nephew:
-- Niece:
-- Cousin
+| Member       | Translation |
+|--------------|-------------|
+| Mother       |             |
+| Father       |             |
+| Brother      |             |
+| Sister       |             |
+| Grandmother  |             |
+| Grandfather  |             |
+| Uncle        |             |
+| Aunt         |             |
+| Nephew       |             |
+| Niece        |             |
+| Cousin       |             |
 
 ## Actions
-- Eat:
-- Drink:
-- Sleep:
-- Run:
-- Walk:
-- Jump:
-- Swim:
-- Fly:
-- Sing:
-- Dance:
-- Play:
-- Study:
-- Work:
-- Read:
-- Write:
-- Listen:
-- Speak:
-- Think:
-- Feel:
-- Believe:
-- Want:
-- Need:
-- Like:
-- Love:
-- Hate:
-- Fear:
-- Hope:
-- Dream:
-- Remember:
-- Forget:
-- Understand:
-- Know:
-- See:
-- Hear:
-- Touch:
-- Smell:
-- Taste:
-- Breathe:
-- Live:
-- Die:
-- Be:
-- Have:
-- Give:
-- Take:
-- Send:
-- Receive:
-- Buy:
-- Sell:
-- Make:
-- Break:
-- Fix:
-- Clean:
-- Wash:
-- Iron:
-- Cook:
-- Bake:
-- Eat:
-- Drink:
-- Sleep:
-- Wake up:
-- Wake up:
-- Wake up:
-
+| Action      | Translation |
+|-------------|-------------|
+| Eat         |             |
+| Drink       |             |
+| Sleep       |             |
+| Run         |             |
+| Walk        |             |
+| Jump        |             |
+| Swim        |             |
+| Fly         |             |
+| Sing        |             |
+| Dance       |             |
+| Play        |             |
+| Study       |             |
+| Work        |             |
+| Read        |             |
+| Write       |             |
+| Listen      |             |
+| Speak       |             |
+| Think       |             |
+| Feel        |             |
+| Believe     |             |
+| Want        |             |
+| Need        |             |
+| Like        |             |
+| Love        |             |
+| Hate        |             |
+| Fear        |             |
+| Hope        |             |
+| Dream       |             |
+| Remember    |             |
+| Forget      |             |
+| Understand  |             |
+| Know        |             |
+| See         |             |
+| Hear        |             |
+| Touch       |             |
+| Smell       |             |
+| Taste       |             |
+| Breathe     |             |
+| Live        |             |
+| Die         |             |
+| Be          |             |
+| Have        |             |
+| Give        |             |
+| Take        |             |
+| Send        |             |
+| Receive     |             |
+| Buy         |             |
+| Sell        |             |
+| Make        |             |
+| Break       |             |
+| Fix         |             |
+| Clean       |             |
+| Wash        |             |
+| Iron        |             |
+| Cook        |             |
+| Bake        |             |
+| Eat         |             |
+| Drink       |             |
+| Sleep       |             |
+| Wake up     |             |
 
 ## Things/Properties
-- Ball
-- Car:
-- Bike:
-- Train:
-- Plane:
-- Boat:
-- Ship:
-- Submarine:
-- Helicopter:
-- Rocket:
-- Spaceship:
-- House
-- Land
+| Item          | Translation |
+|---------------|-------------|
+| Ball          |             |
+| Car           |             |
+| Bike          |             |
+| Train         |             |
+| Plane         |             |
+| Boat          |             |
+| Ship          |             |
+| Submarine     |             |
+| Helicopter    |             |
+| Rocket        |             |
+| Spaceship     |             |
+| House         |             |
+| Land          |             |
+
+
 
 ## Common Names and Meanings
 ### Male/Men []
