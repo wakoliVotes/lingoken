@@ -360,9 +360,48 @@ Common verbs and adjectives.
 
 
 ## Common Names and Meanings
-### Male/Men []
-- Karanja
-Karanja, Kamau, Kariũki, Mwangi, Kĩmani, Njoroge, Mũngai, Ndũn'gũ, Mũchoki, Mũngai, Kamande, Gĩtaũ, Kĩhara, Macharia, Mũirũrĩ, Wanjaũ, Wahome, Gĩthĩnji, Cege (Chege), Kĩragũ, Ngigĩ, Ng'ang'a, Wanderi, Gĩtonga, Wambũgũ, Watene, Mũkundi, Kĩnyua, Mũrĩu, Gathu, Mũgo, Mwanĩki, Gĩthaiga, Mũraguri, Chomba, Njũki, Gĩchũki, Mũnene, Gĩchũrũ
+
+### Male/Men
+| Name                     |
+|--------------------------|
+| Karanja                  |
+| Kamau                    |
+| Kariũki                  |
+| Mwangi                   |
+| Kĩmani                   |
+| Njoroge                  |
+| Mũngai                   |
+| Ndũn'gũ                  |
+| Mũchoki                  |
+| Kamande                  |
+| Gĩtaũ                    |
+| Kĩhara                   |
+| Macharia                 |
+| Mũirũrĩ                 |
+| Wanjaũ                  |
+| Wahome                  |
+| Gĩthĩnji                |
+| Cege (Chege)            |
+| Kĩragũ                  |
+| Ngigĩ                   |
+| Ng'ang'a                |
+| Wanderi                 |
+| Gĩtonga                 |
+| Wambũgũ                |
+| Watene                  |
+| Mũkundi                 |
+| Kĩnyua                  |
+| Mũrĩu                  |
+| Gathu                   |
+| Mũgo                   |
+| Mwanĩki                |
+| Gĩthaiga                |
+| Mũraguri               |
+| Chomba                  |
+| Njũki                  |
+| Gĩchũki                |
+| Mũnene                 |
+| Gĩchũrũ                |
 
 ### Female/Women []
 Wanjirũ, Njeri, Wanjikũ, Wangarĩ, Wambũi, Nyambura,Njoki, Wambũi, Wairimũ, Waithĩra, Nyagũthiĩ, Nyokabi, Wangũ, Kanyi (is a male name in Nyeri), Ngendo, Nyawĩra
