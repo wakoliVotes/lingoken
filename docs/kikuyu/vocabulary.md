@@ -404,9 +404,23 @@ Common verbs and adjectives.
 | Gĩchũrũ                |
 
 ### Female/Women []
-Wanjirũ, Njeri, Wanjikũ, Wangarĩ, Wambũi, Nyambura,Njoki, Wambũi, Wairimũ, Waithĩra, Nyagũthiĩ, Nyokabi, Wangũ, Kanyi (is a male name in Nyeri), Ngendo, Nyawĩra
 
-
-
+| Name       |
+|------------|
+| Wanjirũ    |
+| Njeri      |
+| Wanjikũ    |
+| Wangarĩ    |
+| Wambũi     |
+| Nyambura   |
+| Njoki      |
+| Wairimũ    |
+| Waithĩra   |
+| Nyagũthiĩ  |
+| Nyokabi    |
+| Wangũ      |
+| Kanyi*     |
+| Ngendo     |
+| Nyawĩra    |
 
 
