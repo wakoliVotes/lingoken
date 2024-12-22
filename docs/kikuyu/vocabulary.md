@@ -419,7 +419,6 @@ Common verbs and adjectives.
 | Nyagũthiĩ  |
 | Nyokabi    |
 | Wangũ      |
-| Kanyi*     |
 | Ngendo     |
 | Nyawĩra    |
 
