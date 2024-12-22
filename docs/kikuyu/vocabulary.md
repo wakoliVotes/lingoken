@@ -362,42 +362,42 @@ Common verbs and adjectives.
 ## Common Names and Meanings
 
 ### Male/Men
-| Name                     |
-|--------------------------|
-| Karanja                  |
-| Kamau                    |
-| Kariũki                  |
-| Mwangi                   |
-| Kĩmani                   |
-| Njoroge                  |
-| Mũngai                   |
-| Ndũn'gũ                  |
-| Mũchoki                  |
-| Kamande                  |
-| Gĩtaũ                    |
-| Kĩhara                   |
-| Macharia                 |
-| Mũirũrĩ                 |
-| Wanjaũ                  |
-| Wahome                  |
-| Gĩthĩnji                |
-| Cege (Chege)            |
-| Kĩragũ                  |
-| Ngigĩ                   |
-| Ng'ang'a                |
-| Wanderi                 |
-| Gĩtonga                 |
+| Name                   |
+|------------------------|
+| Karanja                |
+| Kamau                  |
+| Kariũki                |
+| Mwangi                 |
+| Kĩmani                 |
+| Njoroge                |
+| Mũngai                 |
+| Ndũn'gũ                |
+| Mũchoki                |
+| Kamande                |
+| Gĩtaũ                  |
+| Kĩhara                 |
+| Macharia               |
+| Mũirũrĩ                |
+| Wanjaũ                 |
+| Wahome                 |
+| Gĩthĩnji               |
+| Cege (Chege)           |
+| Kĩragũ                 |
+| Ngigĩ                  |
+| Ng'ang'a               |
+| Wanderi                |
+| Gĩtonga                |
 | Wambũgũ                |
-| Watene                  |
-| Mũkundi                 |
-| Kĩnyua                  |
+| Watene                 |
+| Mũkundi                |
+| Kĩnyua                 |
 | Mũrĩu                  |
-| Gathu                   |
+| Gathu                  |
 | Mũgo                   |
 | Mwanĩki                |
-| Gĩthaiga                |
+| Gĩthaiga               |
 | Mũraguri               |
-| Chomba                  |
+| Chomba                 |
 | Njũki                  |
 | Gĩchũki                |
 | Mũnene                 |
