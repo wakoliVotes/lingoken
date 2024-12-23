@@ -421,5 +421,6 @@ Common verbs and adjectives.
 | Wangũ      |
 | Ngendo     |
 | Nyawĩra    |
+| 
 
 
