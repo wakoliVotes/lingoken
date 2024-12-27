@@ -23,6 +23,15 @@ export default defineConfig({
         gtag('config', 'G-GCPSMKWM3V');
       `,
     ],
+    ['meta', { property: 'og:title', content: 'Lingoken' }],
+    ['meta', { property: 'og:description', content: 'Learn languages smarter with Lingoken!' }],
+    ['meta', { property: 'og:image', content: 'https://lingoken.vercel.app/images/lingoround1.png' }],
+    ['meta', { property: 'og:image:secure_url', content: 'https://lingoken.vercel.app/images/lingoround1.png' }],
+    ['meta', { property: 'og:image:type', content: 'image/jpeg' }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+    ['meta', { property: 'og:url', content: 'https://lingoken.vercel.app/' }],
+    ['meta', { property: 'og:type', content: 'website' }]
   ],
   cleanUrls: true,
   themeConfig: {
