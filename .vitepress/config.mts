@@ -47,10 +47,11 @@ export default defineConfig({
         { text: 'Swahili', link: '/docs/swahili/' },
         { text: 'Kamba', link: '/docs/kamba/' },
         { text: 'Kalenjin', link: '/docs/kalenjin/' },
+        { text: 'Kikuyu', link: '/docs/kikuyu/' },
         { text: 'Turkana', link: '/docs/turkana/' },
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Luo', link: '/docs/luo/' },
-        { text: 'Kikuyu', link: '/docs/kikuyu/' }
+
 
       ]},
       { text: 'About', items: [
