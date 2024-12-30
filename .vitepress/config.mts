@@ -42,12 +42,12 @@ export default defineConfig({
       { text: 'About', link: '/about'},
       { text: 'Languages', items : [
         { text: 'Borana', link: '/docs/borana/' },
-        { text: 'Luhya', link: '/docs/luhya/' },
         { text: 'Meru', link: '/docs/meru/' },
         { text: 'Swahili', link: '/docs/swahili/' },
         { text: 'Kamba', link: '/docs/kamba/' },
         { text: 'Kalenjin', link: '/docs/kalenjin/' },
         { text: 'Kikuyu', link: '/docs/kikuyu/' },
+        { text: 'Luhya', link: '/docs/luhya/' },
         { text: 'Turkana', link: '/docs/turkana/' },
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Luo', link: '/docs/luo/' },
