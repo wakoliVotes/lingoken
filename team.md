@@ -7,7 +7,7 @@ const members = [
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',
-    sponsor: 'true',
+    sponsor: 'https://buymeacoffee.com/founderske',
     actionText: 'Buy Me a Coffee',
     desc: 'I am a passionate developer who loves to create innovative solutions.',
     links: [
@@ -20,7 +20,7 @@ const members = [
     name: 'Votez',
     title: 'Founder | Developer',
     org: 'AnchorMiles',
-    sponsor: 'true',
+    sponsor: 'https://buymeacoffee.com/founderske',
     actionText: 'Buy Me a Coffee',
     desc: 'I am a passionate developer who loves to create innovative solutions.',
     links: [
