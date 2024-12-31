@@ -1,3 +1,12 @@
+---
+title: About Kikuyu Language
+description: Learn how to express actions in Kikuyu and English.
+head:
+  - - meta
+    - name: keywords
+      content: Kikuyu, Actions in Kikuyu, Kikuyu verbs, Learn Kikuyu actions, Kikuyu Grammar, Kikuyu Vocabulary, Kikuyu Translations, Kikuyu-English vocabulary
+---
+
 # Kikuyu Language
 
 Welcome to the Kikuyu language page on LingoKen! Kikuyu is one of Kenya's most widely spoken languages, with deep cultural roots in the Kikuyu community. Whether you're a beginner or an advanced learner, you'll find engaging content to help you learn, appreciate, and connect with the Kikuyu language and its cultural significance.

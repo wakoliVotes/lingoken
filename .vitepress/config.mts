@@ -7,6 +7,8 @@ export default defineConfig({
   description: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners.",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }],
+    // Keywords
+    ['meta', { name: 'keywords', content: 'Kenyan languages, Kenya, Kikuyu, Kalenjin, Luhya, Swahili, Luo, Borana, Meru, Kamba, Orma, Turkana, African languages, learn Kenyan dialects, language learning, cultural insights, grammar, vocabulary, English translation, spoken word' }],
     // Google tag (gtag.js)
     [
       'script',
