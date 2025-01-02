@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Kikuyu"
+  name: "Luhya"
   # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
   text: "Language spoken in Kenya & Ethiopia by the Borana."
   tagline: LingoKen - Learn Kenyan, Connect Kenyan
