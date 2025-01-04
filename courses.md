@@ -16,15 +16,11 @@ Location: Chania Ave. Kilimani, Nairobi, Kenya
 
 Kenya is home to a rich tapestry of over 42 languages, each with its unique charm, grammar, and cultural depth. Whether you're connecting with your roots, broadening your linguistic skills, or exploring a new culture, our courses are tailored to help you dive into the heart of Kenya's diverse languages.
 
----
-
 ## Why Learn with Us?
 
 - **Cultural Immersion**: Go beyond words and understand the culture, traditions, and people behind each language.  
 - **Expert Guidance**: Learn from native speakers who provide authentic pronunciation and real-life usage examples.  
 - **Flexible Options**: Choose a study plan that fits your schedule and learning pace.  
-
----
 
 ## Our Study Plans and Weekly Commitment
 
@@ -44,16 +40,12 @@ We offer a range of study plans designed to fit different learning needs and sch
 - Quizzes and exercises tailored to your skill level.  
 - Cultural insights for real-world applications.  
 
----
-
 ## Available Languages
 
 ### Explore the Beauty of Kenyan Dialects:
 We currently offer learning and well-paced courses allowing for easier planning and learning.
 
 Each course is designed with engaging resources to help you grasp basic phrases, grammar, vocabulary, and cultural nuances.
-
----
 
 ## How to Get Started?
 
@@ -65,8 +57,6 @@ Decide how intensively you want to study. Whether you have 30 minutes a day or a
 
 ### 3. **Enroll and Start Learning**
 Click the **[Enroll Now](/contact.md)** button, and you’ll gain immediate access to your chosen course.  
-
----
 
 ## Why Wait? Start Your Language Learning Journey Today!
 
