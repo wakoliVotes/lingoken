@@ -35,13 +35,10 @@ LingoKen provides structured lessons, quizzes, and downloadable resources, givin
 ### Community Connection
 We believe language is best learned through interaction. Our platform fosters community engagement by encouraging users to share experiences, ask questions, and connect with native speakers and learners alike.
 
----
-
 ## Why LingoKen?
 
 LingoKen was born from a deep respect for Kenya's linguistic heritage and the recognition that every language deserves to be heard, understood, and preserved. Whether you're a Kenyan looking to connect with your roots or a global citizen fascinated by languages, LingoKen offers an enriching journey through the heart of Kenya’s diverse cultures and dialects.
 
----
 
 ## Join Us on Our Journey
 
@@ -49,6 +46,5 @@ Our team is committed to continually improving the platform, adding new language
 
 Thank you for being a part of this journey!
 
----
 
 Ready to start learning? [Explore Dialects](/)
