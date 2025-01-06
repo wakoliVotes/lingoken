@@ -76,7 +76,7 @@ export default defineConfig({
               { text: 'About | History', link: '/docs/kikuyu/about' },
               { text: 'Grammar', link: '/docs/kikuyu/grammar' },
               { text: 'Vocabulary', link: '/docs/kikuyu/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/kikuyu/culture-insights' }
+              { text: 'Culture Insights', link: '/docs/kikuyu/culturelinsights' }
             ]
           },
           {
@@ -85,7 +85,7 @@ export default defineConfig({
             items: [
               { text: 'Grammar', link: '/docs/luhya/grammar' },
               { text: 'Vocabulary', link: '/docs/luhya/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/luhya/culture-insights' }
+              { text: 'Culture Insights', link: '/docs/luhya/culturelinsights' }
             ]
           },
           {
@@ -94,7 +94,7 @@ export default defineConfig({
             items: [
               { text: 'Grammar', link: '/docs/borana/grammar' },
               { text: 'Vocabulary', link: '/docs/borana/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/borana/culture-insights' }
+              { text: 'Culture Insights', link: '/docs/borana/culturelinsights' }
             ]
           },
           {
@@ -103,7 +103,7 @@ export default defineConfig({
             items: [
               { text: 'Grammar', link: '/docs/meru/grammar' },
               { text: 'Vocabulary', link: '/docs/meru/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/meru/culture-insights' }
+              { text: 'Culture Insights', link: '/docs/meru/culturelinsights' }
             ]
           },
           {
