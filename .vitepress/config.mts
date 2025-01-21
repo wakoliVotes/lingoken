@@ -83,31 +83,31 @@ export default defineConfig({
             text: 'Luhya',
             collapsed: false,
             items: [
-              { text: 'Grammar', link: '/docs/luhya/grammar' },
-              { text: 'Vocabulary', link: '/docs/luhya/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/luhya/culturelinsights' }
+              { text: 'Grammar', link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Culture Insights', link: '' }
             ]
           },
           {
             text: 'Borana',
             collapsed: false,
             items: [
-              { text: 'Grammar', link: '/docs/borana/grammar' },
-              { text: 'Vocabulary', link: '/docs/borana/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/borana/culturelinsights' }
+              { text: 'Grammar', link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Culture Insights', link: '' }
             ]
           },
           {
             text: 'Meru',
             collapsed: false,
             items: [
-              { text: 'Grammar', link: '/docs/meru/grammar' },
-              { text: 'Vocabulary', link: '/docs/meru/vocabulary' },
-              { text: 'Culture Insights', link: '/docs/meru/culturelinsights' }
+              { text: 'Grammar', link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Culture Insights', link: '' }
             ]
           },
           {
-            text: "Foreign Languages - COMING SOON",
+            text: "Foreign - COMING SOON",
             collapsed: false,
             items: [
               { text: 'French', link: '' },
