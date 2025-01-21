@@ -33,11 +33,11 @@ features:
     details: COMING SOON
 
     features:
-  - title: Kisii
-    details: COMING SOON
   - title: Luhya
     details: COMING SOON
   - title: Meru
+    details: COMING SOON
+  - title: Foreign - French, German, Chinese
     details: COMING SOON
 ---
 
