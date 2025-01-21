@@ -110,7 +110,7 @@ export default defineConfig({
             text: "Foreign Languages",
             collapsed: false,
             items: [
-              { text: '', link: 'docs/german'},
+              { text: 'French', link: 'docs/french'},
               { text: 'German', link: 'docs/german'},
               { text: 'Chinese', link: 'docs/chinese'}
             ]
