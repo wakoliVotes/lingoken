@@ -107,12 +107,12 @@ export default defineConfig({
             ]
           },
           {
-            text: "Foreign Languages",
+            text: "Foreign Languages - COMING SOON",
             collapsed: false,
             items: [
-              { text: 'French', link: 'docs/french'},
-              { text: 'German', link: 'docs/german'},
-              { text: 'Chinese', link: 'docs/chinese'}
+              { text: 'French', link: '' },
+              { text: 'German', link: ''},
+              { text: 'Chinese', link: ''}
             ]
           },
           {
