@@ -107,6 +107,15 @@ export default defineConfig({
             ]
           },
           {
+            text: "Foreign Languages",
+            collapsed: false,
+            items: [
+              { text: '', link: 'docs/german'},
+              { text: 'German', link: 'docs/german'},
+              { text: 'Chinese', link: 'docs/chinese'}
+            ]
+          },
+          {
             text: 'Enrol to Learn', link: '/courses'
 
           },
