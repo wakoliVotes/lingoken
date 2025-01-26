@@ -53,7 +53,7 @@ export default defineConfig({
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Swahili', link: '/docs/swahili/' },
         { text: 'Turkana', link: '/docs/turkana/' },
-        { text: 'Others - Coming Soon', link: 'courses'}
+        { text: 'Foreign - Coming Soon', link: 'courses'}
 
 
       ]},
@@ -69,62 +69,56 @@ export default defineConfig({
       {
         text: 'Languages',
         items: [
-          { text: 'Kenyan Languages', 
+          {
+            text: 'Kikuyu',
+            collapsed: false,
             items: [
-              {
-                text: 'Kikuyu',
-                collapsed: false,
-                items: [
-                  { text: 'About | History', link: '/docs/kikuyu/about' },
-                  { text: 'Grammar', link: '/docs/kikuyu/grammar' },
-                  { text: 'Vocabulary', link: '/docs/kikuyu/vocabulary' },
-                  { text: 'Culture Insights', link: '/docs/kikuyu/culturelinsights' }
-                ]
-              },
-              {
-                text: 'Luhya',
-                collapsed: false,
-                items: [
-                  { text: 'Grammar', link: '' },
-                  { text: 'Vocabulary', link: '' },
-                  { text: 'Culture Insights', link: '' }
-                ]
-              },
-              {
-                text: 'Borana',
-                collapsed: false,
-                items: [
-                  { text: 'Grammar', link: '' },
-                  { text: 'Vocabulary', link: '' },
-                  { text: 'Culture Insights', link: '' }
-                ]
-              },
-              {
-                text: 'Meru',
-                collapsed: false,
-                items: [
-                  { text: 'Grammar', link: '' },
-                  { text: 'Vocabulary', link: '' },
-                  { text: 'Culture Insights', link: '' }
-                ]
-              },
-              {
-                text: "Foreign - COMING SOON",
-                collapsed: false,
-                items: [
-                  { text: 'French', link: '/intl/french' },
-                  { text: 'German', link: ''},
-                  { text: 'Chinese', link: ''}
-                ]
-              },
-              {
-                text: 'Enrol to Learn', link: '/courses'
-    
-              },
+              { text: 'About | History', link: '/docs/kikuyu/about' },
+              { text: 'Grammar', link: '/docs/kikuyu/grammar' },
+              { text: 'Vocabulary', link: '/docs/kikuyu/vocabulary' },
+              { text: 'Culture Insights', link: '/docs/kikuyu/culturelinsights' }
             ]
-           },
-          
-          {}
+          },
+          {
+            text: 'Luhya',
+            collapsed: false,
+            items: [
+              { text: 'Grammar', link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Culture Insights', link: '' }
+            ]
+          },
+          {
+            text: 'Borana',
+            collapsed: false,
+            items: [
+              { text: 'Grammar', link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Culture Insights', link: '' }
+            ]
+          },
+          {
+            text: 'Meru',
+            collapsed: false,
+            items: [
+              { text: 'Grammar', link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Culture Insights', link: '' }
+            ]
+          },
+          {
+            text: "Foreign - COMING SOON",
+            collapsed: false,
+            items: [
+              { text: 'French', link: '/intl/french' },
+              { text: 'German', link: ''},
+              { text: 'Chinese', link: ''}
+            ]
+          },
+          {
+            text: 'Enrol to Learn', link: '/courses'
+
+          },
         ]
       }
     ],    
