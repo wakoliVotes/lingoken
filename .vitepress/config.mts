@@ -52,7 +52,7 @@ export default defineConfig({
         { text: 'Meru', link: '/docs/meru/' },
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Swahili', link: '/docs/swahili/' },
-        { text: 'Turkana', link: '/docs/turkana/' },
+        { text: 'Turkana', link: '/docs/turkana/' },        
         { 
           text: 'Foreign',                     
           items: [          
