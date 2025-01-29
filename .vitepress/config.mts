@@ -53,9 +53,13 @@ export default defineConfig({
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Swahili', link: '/docs/swahili/' },
         { text: 'Turkana', link: '/docs/turkana/' },
-        { text: 'Foreign - Coming Soon', link: 'courses'}
-
-
+        { 
+          text: 'Foreign',                     
+          items: [          
+            { text: 'French', link: '' },
+            { text: 'German', link: '' },
+        ]
+      },
       ]},
       { text: 'About', items: [
         { text: 'About Us', link: '/about' },
