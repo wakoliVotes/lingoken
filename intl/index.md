@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "LingoKen"
-  text: Explore Diverse Dialects — Learn; Celebrate Diversity!
-  tagline: Kenyan Language Learning Platform
+  name: "LingoKen - Foreign Languages"
+  text: Explore International Dialects — Learn; Celebrate Diversity!
+  tagline: International Dialcts Learning
   image:
     src: /lingoround.png
     alt: LingoKen
