@@ -21,19 +21,16 @@ hero:
       link: courses/
 
 features:
-  - title: Kikuyu
+  - title: French
     details: Learn & Explore
-    link: /docs/kikuyu/
-    image:
-      src: 🈵
-
-  - title: Luo
+    link: /intl/french/
+  - title: German
     details: COMING SOON
-  - title: Borana
+  - title: Chinese
     details: COMING SOON
 
     features:
-  - title: Luhya
+  - title: Chinese
     details: COMING SOON
   - title: Meru
     details: COMING SOON
