@@ -28,12 +28,4 @@ features:
     details: COMING SOON
   - title: Chinese
     details: COMING SOON
-
-    features:
-  - title: Chinese
-    details: COMING SOON
-  - title: Meru
-    details: COMING SOON
-  - title: Foreign - French, German, Chinese
-    details: COMING SOON
 ---
