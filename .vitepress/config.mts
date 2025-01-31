@@ -41,7 +41,6 @@ export default defineConfig({
     logo: '/lingoround1.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about'},
       { text: 'Languages', items : [
         { text: 'Borana', link: '/docs/borana/' },
         { text: 'Kamba', link: '/docs/kamba/' },
@@ -52,14 +51,8 @@ export default defineConfig({
         { text: 'Meru', link: '/docs/meru/' },
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Swahili', link: '/docs/swahili/' },
-        { text: 'Turkana', link: '/docs/turkana/' },        
-        { 
-          text: 'Foreign',                     
-          items: [          
-            { text: 'French', link: '' },
-            { text: 'German', link: '' },
-        ]
-      },
+        { text: 'Turkana', link: '/docs/turkana/' }, 
+        { text: 'International', link: '/intl/' }                                   
       ]},
       { text: 'About', items: [
         { text: 'About Us', link: '/about' },
