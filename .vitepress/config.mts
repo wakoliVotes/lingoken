@@ -25,6 +25,7 @@ export default defineConfig({
         gtag('config', 'G-GCPSMKWM3V');
       `,
     ],
+    ['meta', { name: 'google-adsense-account', content: 'ca-pub-6689307114739296'}],
     ['meta', { property: 'og:title', content: 'Lingoken' }],
     ['meta', { property: 'og:description', content: 'Learn languages smarter with Lingoken!' }],
     ['meta', { property: 'og:image', content: 'https://lingoken.vercel.app/og-image.png' }],
