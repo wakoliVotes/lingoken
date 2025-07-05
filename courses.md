@@ -14,7 +14,7 @@ Location: Chania Ave. Kilimani, Nairobi, Kenya
 
 # Learn and Master Kenyan Languages
 
-Kenya is home to a rich tapestry of over 42 languages, each with its unique charm, grammar, and cultural depth. Whether you're connecting with your roots, broadening your linguistic skills, or exploring a new culture, our courses are tailored to help you dive into the heart of Kenya's diverse languages.
+Kenya is home to a rich tapestry of over 42 languages, each with its unique charm, grammar, and cultural depth. Whether connecting with your roots, broadening your linguistic skills, or exploring a new culture, our courses are tailored to help you dive into the heart of Kenya's diverse languages.
 
 ## Why Learn with Us?
 
@@ -43,20 +43,20 @@ We offer a range of study plans designed to fit different learning needs and sch
 ## Available Languages
 
 ### Explore the Beauty of Kenyan Dialects:
-We currently offer learning and well-paced courses allowing for easier planning and learning.
+We offer learning and well-paced courses, allowing for easier planning and education.
 
-Each course is designed with engaging resources to help you grasp basic phrases, grammar, vocabulary, and cultural nuances.
+Each course has engaging resources to help you grasp basic phrases, grammar, vocabulary, and cultural nuances.
 
 ## How to Get Started?
 
 ### 1. **Choose Your Language**
-Visit our **[Languages Page](#)** to explore available options and select the language you’d like to learn.
+Visit our **[Languages Page](#)** to explore options and select the language you want to learn.
 
 ### 2. **Pick a Study Plan**
-Decide how intensively you want to study. Whether you have 30 minutes a day or a few hours to dedicate, we have a plan for you.
+Could you decide how intensively you want to study? Whether you have 30 minutes a day or a few hours to dedicate, we have a plan for you.
 
 ### 3. **Enroll and Start Learning**
-Click the **[Enroll Now](/contact.md)** button, and you’ll gain immediate access to your chosen course.  
+Click the **[Enroll Now](/contact.md)** button to access your chosen course immediately.  
 
 ## Why Wait? Start Your Language Learning Journey Today!
 
