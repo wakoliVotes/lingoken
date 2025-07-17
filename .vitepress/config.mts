@@ -105,6 +105,15 @@ export default defineConfig({
             ]
           },
           {
+            text: "Kamba",
+            collapsed: false,
+            items: [
+              { text: "Grammar", link: '' },
+              { text: 'Vocabulary', link: '' },
+              { text: 'Cultural Insights', link: '' }
+            ]
+          },
+          {
             text: "Foreign - COMING SOON",
             collapsed: false,
             items: [
