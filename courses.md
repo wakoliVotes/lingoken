@@ -62,7 +62,7 @@ Click the **[Enroll Now](/contact.md)** button, and you’ll gain immediate acce
 
 Kenya’s languages are more than words—they are keys to understanding the country's soul. Join us and become a part of this linguistic celebration.  
 
-### [Enroll Now](/contact.md)
+### [Enroll](/contact.md)
 
 
 
