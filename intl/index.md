@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "LingoKen - Foreign Languages"
-  text: Explore International Dialects — Learn; Celebrate Diversity!
+  name: "LingoKen Foreign"
+  text: Explore Global Dialects — Learn!
   tagline: International Dialcts Learning
   image:
     src: /lingoround.png
