@@ -3,10 +3,10 @@
 layout: home
 
 hero:
-  name: "French / Francais"
+  name: "French / Français"
   # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
-  text: "Language spoken in Kenya & Ethiopia by the Borana."
-  tagline: LingoKen - Learn Kenyan, Connect Kenyan
+  text: "Language of France, partly used in Belgium, and Canada"
+  tagline: LingoKen - Learn French, Connect Global
   actions:
     - theme: brand
       text: Start Learning
