@@ -22,12 +22,15 @@ features:
   - icon: 📖
     title: Grammar Basics
     details: Learn essential French grammar rules with clear examples
+    link: ./grammar
   - icon: 🗣️
     title: Pronunciation Guide
     details: Practice authentic French sounds with audio and phonetic tips.
+    link: ./pronunciation
   - icon: 🌍
     title: Cultural Insights
     details: Discover how French is used in France, Belgium, Canada, and beyond.
+    link: ./culture
 
 footer:
   message: "Expand your language journey"
