@@ -25,5 +25,15 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
 
+footer:
+  message: "Expand your language journey"
+  links:
+    - text: Vocabulary Lists
+      link: ./vocabulary
+    - text: Practice Exercises
+      link: ./exercises
+    - text: Community Forum
+      link: ./community
+
+---
