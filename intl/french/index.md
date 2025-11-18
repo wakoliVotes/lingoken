@@ -19,12 +19,15 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📖
+    title: Grammar Basics
+    details: Learn essential French grammar rules with clear examples
+  - icon: 🗣️
+    title: Pronunciation Guide
+    details: Practice authentic French sounds with audio and phonetic tips.
+  - icon: 🌍
+    title: Cultural Insights
+    details: Discover how French is used in France, Belgium, Canada, and beyond.
 
 footer:
   message: "Expand your language journey"
