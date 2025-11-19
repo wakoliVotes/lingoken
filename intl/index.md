@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Start Learning
-      link: /markdown-examples
+      link: ./about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Go to Local Dialects
+      link: /
     - theme: brand
       text: Courses
       link: courses/
@@ -23,7 +23,7 @@ hero:
 features:
   - title: French
     details: Learn & Explore
-    link: /intl/french/
+    link: ./french/
   - title: German
     details: COMING SOON
   - title: Chinese
