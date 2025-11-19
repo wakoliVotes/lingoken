@@ -8,7 +8,7 @@ hero:
   text: "Language of France, partly used in Belgium, and Canada"
   tagline: LingoKen - Learn French, Connect Global
   image:
-    src: /french-flag.png
+    src: /german-flag.png
 
   actions:
     - theme: brand
