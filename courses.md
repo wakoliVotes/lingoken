@@ -12,7 +12,8 @@ Location: Chania Ave. Kilimani, Nairobi, Kenya
 -->
 <!-- // Write section -->
 
-# Learn and Master Kenyan Languages
+# Enrol and get a Tutor
+## Learn and Master Kenyan Languages
 
 Kenya is home to a rich tapestry of over 42 languages, each with its unique charm, grammar, and cultural depth. Whether connecting with your roots, broadening your linguistic skills, or exploring a new culture, our courses are tailored to help you dive into the heart of Kenya's diverse languages.
 

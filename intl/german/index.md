@@ -3,10 +3,10 @@
 layout: home
 
 hero:
-  name: "French / Français"
-  # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
-  text: "Language of France, partly used in Belgium, and Canada"
-  tagline: LingoKen - Learn French, Connect Global
+  name: "Deutsch / German"
+  text: Official language of Germany, Austria, and Switzerland
+  tagline: Lasst uns gemeinsam lernen
+
   image:
     src: /german-flag.png
 
@@ -15,8 +15,8 @@ hero:
       text: Start Learning
       link: ./about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Go Home
+      link: /
 
 features:
   - icon: 📖

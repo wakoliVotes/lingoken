@@ -14,10 +14,10 @@ hero:
       text: Start Learning
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Go Global
+      link: /intl
     - theme: brand
-      text: Courses
+      text: Tutor-Paced Courses
       link: courses/
 
 features:
