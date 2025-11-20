@@ -5,8 +5,8 @@ layout: home
 hero:
   name: "Chinese / Zhōngwén (中文)"
   # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
-  text: "Language of France, partly used in Belgium, and Canada"
-  tagline: LingoKen - Learn French, Connect Global
+  text: "A tonal language; pitch changes word meanings"
+  tagline: LingoKen - Learn Chines, simple as 1-2-3
   image:
     src: /chines-flag.png
 
