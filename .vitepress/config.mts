@@ -53,7 +53,15 @@ export default defineConfig({
         { text: 'Orma', link: '/docs/orma/' },
         { text: 'Swahili', link: '/docs/swahili/' },
         { text: 'Turkana', link: '/docs/turkana/' }, 
-        { text: 'International', link: '/intl/' }                                   
+        { text: 'International',
+          items: [
+          { text: 'Home', link: '/intl' },
+          { text: 'French', link: '/intl/french' },
+          { text: 'German', link: '/intl.german'},
+          { text: 'Chinese', link: '/intl/chinese'}
+        ]
+
+         }                                   
       ]},
       { text: 'About', items: [
         { text: 'About Us', link: '/about' },
