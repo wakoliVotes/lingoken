@@ -15,21 +15,21 @@ hero:
       text: Start Learning
       link: ./about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Go Home
+      link: /
 
 features:
   - icon: 📖
     title: Grammar Basics
-    details: Learn essential French grammar rules with clear examples
+    details: Learn essential Chinese grammar rules with clear examples
     link: ./grammar
   - icon: 🗣️
     title: Pronunciation Guide
-    details: Practice authentic French sounds with audio and phonetic tips.
+    details: Practice authentic Chinese sounds with audio and phonetic tips.
     link: ./pronunciation
   - icon: 🌍
     title: Cultural Insights
-    details: Discover how French is used in France, Belgium, Canada, and beyond.
+    details: Discover how Chinese is used across different countries.
     link: ./culture
 
 footer:

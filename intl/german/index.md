@@ -21,15 +21,15 @@ hero:
 features:
   - icon: 📖
     title: Grammar Basics
-    details: Learn essential French grammar rules with clear examples
+    details: Learn essential German grammar rules with clear examples
     link: ./grammar
   - icon: 🗣️
     title: Pronunciation Guide
-    details: Practice authentic French sounds with audio and phonetic tips.
+    details: Practice authentic German sounds with audio and phonetic tips.
     link: ./pronunciation
   - icon: 🌍
     title: Cultural Insights
-    details: Discover how French is used in France, Belgium, Canada, and beyond.
+    details: Discover how German is used in Germany, Austria, and Switzerland.
     link: ./culture
 
 footer:
