@@ -8,7 +8,7 @@ hero:
   text: "A tonal language; pitch changes word meanings"
   tagline: LingoKen - Learn Chines, simple as 1, 2, 3
   image:
-    src: /chines-flag.png
+    src: /chinese-flag.png
 
   actions:
     - theme: brand
