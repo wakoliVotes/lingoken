@@ -6,7 +6,7 @@ hero:
   name: "Chinese / Zhōngwén (中文)"
   # text: "Discover, enjoy, and learn Kenya's diverse languages with our web and mobile platform, covering over 42 dialects for language enthusiasts and learners."
   text: "A tonal language; pitch changes word meanings"
-  tagline: LingoKen - Learn Chines, simple as 1-2-3
+  tagline: LingoKen - Learn Chines, simple as 1, , 3
   image:
     src: /chines-flag.png
 
