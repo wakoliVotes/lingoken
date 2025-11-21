@@ -57,7 +57,7 @@ export default defineConfig({
           items: [
           { text: 'Home', link: '/intl' },
           { text: 'French', link: '/intl/french' },
-          { text: 'German', link: '/intl.german'},
+          { text: 'German', link: '/intl/german'},
           { text: 'Chinese', link: '/intl/chinese'}
         ]
 
