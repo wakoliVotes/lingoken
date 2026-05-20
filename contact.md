@@ -6,7 +6,7 @@ We'd love to hear from you! Whether you have questions, feedback, or inquiries a
 
 ## Reach Us
 
-- **Email**: info@lingoken.com  
+- **Email**: getintouchdesk@gmail.com  
 - **Phone**: +254115197294  
 - **Address**: Nairobi, Kenya  
 
