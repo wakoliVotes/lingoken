@@ -1,6 +1,6 @@
 # Contact Us
 
-We'd love to hear from you! Whether you have questions, feedback, or inquiries about our language courses, feel free to get in touch with us.  
+We'd love to hear from you! Whether you have questions, feedback, or inquiries about our courses, feel free to get in touch with us.  
 
 ---
 
