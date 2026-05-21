@@ -7,28 +7,40 @@ head:
       content: Kikuyu, Actions in Kikuyu, Kikuyu verbs, Learn Kikuyu actions, Kikuyu Grammar, Kikuyu Vocabulary, Kikuyu Translations, Kikuyu-English vocabulary
 ---
 
-# Kikuyu Language
+# Kikuyu Language / 
 
 Welcome to the Kikuyu language page on LingoKen! Kikuyu is one of Kenya's most widely spoken languages, with deep cultural roots in the Kikuyu community. Whether you're a beginner or an advanced learner, you'll find engaging content to help you learn, appreciate, and connect with the Kikuyu language and its cultural significance.
 
+<!-- TODO! Add Kikuyu Version -->
+
 ---
 
-## Introduction to Kikuyu Language
+## Introduction to Kikuyu Language / 
 
-### Overview
+### Overview / 
 Kikuyu, also known as Gikuyu, is one of the 42+ languages spoken in Kenya. It is the native language of the Kikuyu people, who reside mainly in the central regions of Kenya. The language holds significant cultural value and plays a key role in community life and traditions.
+
+<!-- TODO! Add Kikuyu Version -->
 
 ### Cultural Importance
 The Kikuyu language is more than just a means of communication; it reflects the rich history, beliefs, and customs of the Kikuyu people. From oral storytelling to ceremonial practices, Kikuyu is integral to preserving the traditions of the community.
 
+<!-- TODO! Add Kikuyu Version -->
+
+<!-- TODO - Add different colors -->
+
 ### Geographic Distribution
 Kikuyu is spoken primarily in the Central Province of Kenya, including Nairobi, where it is used in day-to-day communication. It is one of the most spoken languages in Kenya, alongside Swahili and English.
+
+<!-- TODO! Add Kikuyu Version, with different color -->
 
 ---
 
 ## Basic Phrases and Greetings
 
 Here are some common greetings and phrases in Kikuyu to help you start conversations:
+
+<!-- TODO! Add Kikuyu Version, with different color -->
 
 - **Wîhîî** – Hello
 - **Wîrî wîra** – Good morning
@@ -40,17 +52,25 @@ Here are some common greetings and phrases in Kikuyu to help you start conversat
 
 Feel free to practice these phrases with friends or in community groups!
 
+<!-- TODO! Add Kikuyu Version, with different color -->
+
 ---
 
-## Grammar and Sentence Structure
+## Grammar and Sentence  / 
 
 Kikuyu grammar may seem challenging at first, but once you understand the basic structures, it becomes much easier to communicate.
 
-### Noun Classes
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+### Noun Classes / 
 Kikuyu uses noun classes, which group words based on gender and other characteristics. These noun classes affect verb conjugations, adjectives, and possessives. There are about 9 noun classes in Kikuyu.
 
-### Verbs and Tenses
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+### Verbs and Tenses / 
 Here’s an example of the verb “to go” in different tenses:
+
+<!-- TODO! Add Kikuyu Version, with different color -->
 
 - **Nîenda** – I am going (Present)
 - **Nîendî** – I went (Past)
@@ -59,6 +79,9 @@ Here’s an example of the verb “to go” in different tenses:
 ### Sentence Construction
 Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For example:
 
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+
 - **Nîgûcîra mûtûrî** – I am reading a book.
   - Subject: **Nî** (I)
   - Verb: **gûcîra** (am reading)
@@ -66,9 +89,9 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 
 ---
 
-## Vocabulary and Word Lists
+## Vocabulary and Word Lists / 
 
-### Everyday Vocabulary
+### Everyday Vocabulary  / 
 
 | **Number** | **Kikuyu**          | **Number** | **Kikuyu**          |
 |:----------:|:-------------------:|:----------:|:-------------------:|
@@ -98,7 +121,7 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 
 
 
-- **Family Members**:
+- **Family Members /**:
 
 | **English**      | **Kikuyu**       | **English**      | **Kikuyu**        |
 |:------------------:|:------------------:|:------------------:|:-------------------:|
@@ -114,7 +137,7 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 | Brother-in-law   | Nduga wa mûtumia | Sister-in-law    | Nduka wa mûtumia  |
 
 
-### Action Words
+### Action Words / 
 - Eat: **kûnya**
 - Drink: **kûma**
 - Go: **gûcîra**
@@ -124,9 +147,14 @@ Kikuyu sentences typically follow the Subject-Verb-Object (SVO) structure. For e
 
 Learn more [here](/docs/kikuyu/vocabulary.md)
 
-## Audio Pronunciations
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+## Audio Pronunciations / <!-- TODO! Add Kikuyu Version, with different color -->
+
 
 Listening to native speakers is the best way to learn proper pronunciation. Below are audio examples of key phrases:
+
+<!-- TODO! Add Kikuyu Version, with different color -->
 
 - **Wîhîî (Hello)**
 - **Nîwe wîrî (How are you?)**
@@ -136,25 +164,36 @@ Listening to native speakers is the best way to learn proper pronunciation. Belo
 
 ---
 
-## Cultural Insights
+## Cultural Insights / 
 
-### Traditional Kikuyu Practices
+### Traditional Kikuyu Practices / 
 Kikuyu culture is rich with ceremonies and rituals, such as **circumcision** and **marriage ceremonies**, that are deeply tied to the language. These traditions help maintain the unity and identity of the Kikuyu people.
 
-### Cultural Significance of Language
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+
+### Cultural Significance of Language / 
 Kikuyu is not only a language but a vessel for transmitting cultural knowledge, proverbs, songs, and wisdom from elders. It’s through language that stories of heroes, history, and cultural values are passed down through generations.
 
-### Songs and Folklore
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+
+### Songs and Folklore / 
 Kikuyu folklore is rich with songs and proverbs that serve both as entertainment and moral guidance. Popular songs like **"Wendo Waku"** and stories like **"Mumbi na Gikuyu"** provide deep insights into the Kikuyu worldview.
 
-### Role of Elders
+<!-- TODO! Add Kikuyu Version, with different color -->
+
+
+### Role of Elders / 
 Elders in Kikuyu communities are the custodians of language, history, and traditions. They are respected not only for their age but also for their role in preserving the culture and language.
+
+<!-- TODO! Add Kikuyu Version, with different color -->
 
 ---
 
-## Language Resources
+## Language Resources / 
 
-### Structured Lessons
+### Structured Lessons / 
 We offer interactive lessons on Kikuyu grammar, vocabulary, and sentence structure. Complete quizzes at the end of each lesson to track your progress.
 
 - [Lesson 1: Basic Phrases](#)
@@ -163,7 +202,9 @@ We offer interactive lessons on Kikuyu grammar, vocabulary, and sentence structu
 ### Printable Flashcards
 Download flashcards to help reinforce vocabulary and essential phrases.
 
+<!-- Add Gumroad or Buy Me Coffee for PDF Copy -->
 - [Download Flashcards](#)
+  
 
 ### Reading Materials
 Start practicing your reading skills with short stories and dialogues in Kikuyu.

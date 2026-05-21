@@ -17,20 +17,17 @@ Follow us on social media for updates and new course launches:
 
 ---
 
-## Contact Form
+<!-- ## Contact Form -->
 
-Fill out the form below, and we’ll get back to you as soon as possible!
+<!-- Fill out the form below, and we’ll get back to you as soon as possible!
 
 <form action="#" method="POST">
-  <!-- Name Field -->
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
-  <!-- Email Field -->
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br><br>
 
-  <!-- Subject Field -->
   <label for="subject">Subject:</label><br>
   <select id="subject" name="subject" required>
     <option value="" disabled selected>Select a subject</option>
@@ -40,17 +37,19 @@ Fill out the form below, and we’ll get back to you as soon as possible!
     <option value="other">Other</option>
   </select><br><br>
 
-  <!-- Message Field -->
   <label for="message">Message:</label><br>
   <textarea id="message" name="message" rows="4" placeholder="Type your message here..." required></textarea><br><br>
 
-  <!-- Submit Button -->
+
   <button type="submit">Send Message</button>
 </form>
 
-
+-->
 ---
 
 ## FAQs
 
-Have a question? Check out our [FAQs](#) page for quick answers to common inquiries.  s
+Have a question? Check out our [FAQs](/faqs.md) page for quick answers to common inquiries.
+
+## Explore Our App
+COMING SOON

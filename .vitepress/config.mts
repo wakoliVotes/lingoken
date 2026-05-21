@@ -65,7 +65,7 @@ export default defineConfig({
       ]},
       { text: 'About', items: [
         { text: 'About Us', link: '/about' },
-        { text: 'Enrol to Learn', link: '/courses' },
+        { text: 'Enrol & Learn', link: '/courses' },
         { text: 'Our Team', link: '/team' },
         { text: 'Blog', link: 'https://medium.com/me/stories/ target="_blank' },
         { text: 'Contact', link: '/contact' },
@@ -131,7 +131,7 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Enrol to Learn', link: '/courses'
+            text: 'Enrol & Learn', link: '/courses'
 
           },
         ]
